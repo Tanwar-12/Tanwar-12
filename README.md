@@ -1,4 +1,5 @@
 ![logo](https://github.com/Tanwar-12/Tanwar-12/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Sakshi Tanwar</h1>
 <h3 align="center">Data Science Intern in Rubixe</h3>
 <img align="right" alt="coding" width="600" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw31ieyEwJNwp1vJFA-ga9Ca&ust=1666439691316000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOibiuSi8foCFQAAAAAdAAAAABAE">
