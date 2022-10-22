@@ -2,7 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Sakshi Tanwar</h1>
 <h3 align="center">Data Science Intern in Rubixe</h3>
-<img align="right">alt="" width="1000" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Farieljakubowski.medium.com%2Fi-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46&psig=AOvVaw08IGIxXE54aOsi54A5JiZD&ust=1666502369232000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKjM0KCL8_oCFQAAAAAdAAAAABAE"
+<img align="right" alt="" width="1000" src="(https://user-images.githubusercontent.com/110081008/197322143-46a080dc-5f80-46fa-8dc8-a2124ffeb225.gif")>
+
+<p align="left"><imf src="![image](https://user-images.githubusercontent.com/110081008/197322226-76e03755-d1c4-40c4-97a0-5db934622d5a.png)
+">
 
 
 - 🔭 I’m currently working on **Detecting the type of skin diseases**
