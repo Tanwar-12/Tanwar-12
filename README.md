@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/sakshi-tanwar-69a241250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sakshi-tanwar-420b02215" height="30" width="40" /></a>
+<a href="linkedin.com/in/sakshi-tanwar-69a241250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sakshi-tanwar-69a241250" height="30" width="40" /></a>
 <a href="https://kaggle.com/sakshitanwar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sakshitanwar1" height="30" width="40" /></a>
 </p>
 
