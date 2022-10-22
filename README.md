@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Sakshi Tanwar</h1>
 <h3 align="center">Data Science Intern in Rubixe</h3>
-<img align="right" alt="" width="400"src="![image](https://user-images.githubusercontent.com/110081008/197323100-4134ac4f-6ef3-44c5-b491-b4fa07b7c82b.png)
+<img align="right" alt="coding" width="400" src="(https://user-images.githubusercontent.com/110081008/197324650-d33b690f-b6b6-4f14-9f98-47e106e657af.gif)
+")
 ">
 
 
