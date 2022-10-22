@@ -1,4 +1,4 @@
-![logo](https://github.com/Tanwar-12/Tanwar-12/blob/main/banner.png)
+![logo](https://github.com/Tanwar-12/Tanwar-12/blob/main/img.png)
 
 
 <h1 align="center">Hi 👋, I'm Sakshi Tanwar</h1>
