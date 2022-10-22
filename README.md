@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Sakshi Tanwar</h1>
 <h3 align="center">Data Science Intern in Rubixe</h3>
+<img align="right">alt="" width="1000" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Farieljakubowski.medium.com%2Fi-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46&psig=AOvVaw08IGIxXE54aOsi54A5JiZD&ust=1666502369232000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKjM0KCL8_oCFQAAAAAdAAAAABAE"
+
 
 - 🔭 I’m currently working on **Detecting the type of skin diseases**
 
