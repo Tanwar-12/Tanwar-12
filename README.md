@@ -3,6 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Sakshi Tanwar</h1>
 <h3 align="center">Data Science Intern in Rubixe</h3>
+<img align="right" alt="">width="400"src="![image](https://user-images.githubusercontent.com/110081008/197322839-c1774c19-70b5-43e8-8a9d-1849ce12a723.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwar-12&label=Profile%20views&color=0e75b6&style=flat" alt="tanwar-12" /> </p>
 
