@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwar-12&label=Profile%20views&color=0e75b6&style=flat" alt="tanwar-12" /> </p>
 
-- 🔭 I’m currently working on **Detecting the type of skin diseases**
+- 🔭 I’m currently working on **Telecom Churn**
 
-- 🌱 I’m currently learning **Deep learning,NLP**
+- 🌱 I’m currently learning **Deep learning,NLP,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanwar-12/Tanwar-12.git](https://github.com/Tanwar-12/Tanwar-12.git)
 
