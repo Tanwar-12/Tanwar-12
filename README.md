@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwar-12&label=Profile%20views&color=0e75b6&style=flat" alt="tanwar-12" /> </p>
 
-- 🔭 I’m currently working on **No Churn Telecom**
+- 🔭 I’m currently working on **Employees Performance Analysis**
 
 - 🌱 I’m currently learning **Deep learning,NLP,**
 
