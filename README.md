@@ -1,13 +1,15 @@
-<img align="centre" alt="coding" width="200" src="https://github.com/Tanwar-12/Tanwar-12/blob/main/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif">
+<h1 align="center"> Hello Everyone, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Sakshi Tanwar
 
 
-<h1 align="center">
- <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; SAKSHI  TANWAR &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
 
 
 <h2 align="center"> 
           
-<b> 😎🚀𝙝𝙞👋 Numbers come alive, stories unfold - the passion of a data scientist👩‍💻</b></h2> 
+<b>  Numbers come alive, stories unfold - the passion of a data scientist</b></h2> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwar-12&label=Profile%20views&color=0e75b6&style=flat" alt="tanwar-12" /> </p>
