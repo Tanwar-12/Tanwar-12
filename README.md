@@ -14,7 +14,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwar-12&label=Profile%20views&color=0e75b6&style=flat" alt="tanwar-12" /> </p>
 <b><h1> 💫 About Me:</h1></b>
-🔭 I am Currently Learning AI. As an AI learner, strive not only to understand the technology but also the ethical implications and the responsibility that comes with it."Embrace AI, unleash innovation.".🤔 Areas of Interest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.<br><br>💬 Ask me about Python,Machine Learning<br><br>📫 How to reach me :tanwarsakshi1717157@gmail.com<br><br>⚡ Fun fact:Exercise boosts mood and happiness.
+🔭 I am Currently Learning AI. As an AI learner, strive not only to understand the technology but also the ethical implications and the responsibility that comes with it."Embrace AI, unleash innovation."
+🏄‍ Always into learning new things and looking to contribute to open source as much as possible. 🤔 Areas of Interest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.<br><br>💬 Ask me about Python,Machine Learning<br><br>📫 How to reach me :tanwarsakshi1717157@gmail.com<br><br>⚡ Fun fact:Exercise boosts mood and happiness.
 
 
 ## 🌐 Socials: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
