@@ -1,5 +1,6 @@
 
-<img align="center" alt="GIF" src="" width="200","height"></h1 align="center"> Hello Everyone, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+
+<h1 align="center">Hello Everyone, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="35"
          width="35" /> I'm Sakshi Tanwar
@@ -18,6 +19,7 @@
 🔭 I am Currently Learning AI. As an AI learner, strive not only to understand the technology but also the ethical implications and the responsibility that comes with it."Embrace AI, unleash innovation."
 
 <br>🏄‍ Always into learning new things and looking to contribute to open source as much as possible. 🤔 Areas of Interest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</br><br><br>💬 Ask me about Python,Machine Learning<br><br>📫 How to reach me :tanwarsakshi1717157@gmail.com<br><br>⚡ Fun fact:Exercise boosts mood and happiness.
+
 
 
 ## 🌐 Socials: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
