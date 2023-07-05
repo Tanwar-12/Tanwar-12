@@ -1,4 +1,5 @@
-<h1 align="center"> Hello Everyone, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+
+<img align="center" alt="GIF" src="" width="200","height"></h1 align="center"> Hello Everyone, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="35"
          width="35" /> I'm Sakshi Tanwar
