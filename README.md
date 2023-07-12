@@ -2,12 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;ML+Engineer🛠️;Coder+💻;)](https://git.io/typing-svg)
 
-<h1 align="center">Hii there!, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="30"
-         width="30" />I'm Sakshi 
-         <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=50F719FF&size=40&width=750&height=80&lines=A+Passionate+DataScientist"/>
+
+   <p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=50F719FF&size=40&width=750&height=80&lines=Hii,+I'm+SakshiTanwar"/>
 </p>
          
 
