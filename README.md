@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwar-12&label=Profile%20views&color=0e75b6&style="flat" alt="tanwar-12" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;ML+Engineer🛠️;Coder+💻;)](https://git.io/typing-svg)
-<h1 align="center"> Hello,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hello,<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45"/> I'm Sakshi Tanwar
