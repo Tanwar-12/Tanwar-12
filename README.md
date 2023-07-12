@@ -1,9 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwar-12&label=Profile%20views&color=0e75b6&style="flat" alt="tanwar-12" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;ML+Engineer🛠️;Coder+💻;)](https://git.io/typing-svg)
+<h1 align="center"> Hello,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45"/> I'm Sakshi Tanwar
 
 
-   <p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=50F719FF&size=40&width=750&height=80&lines=Hii,+I'm+SakshiTanwar"/>
+   <p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=50F719FF&size=40&width=750&height=80&lines=Welcome,+To+MY+Profile"/>
 </p>
          
 
