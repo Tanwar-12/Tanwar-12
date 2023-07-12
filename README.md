@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;ML+Engineer🛠️;Coder+💻;)](https://git.io/typing-svg)
 
-<h1 align="center">Hello Everyone, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Hii there!, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="35"
-         width="35" /> I'm Sakshi Tanwar
+         width="35" />I'm Sakshi Tanwar
 
 
 
