@@ -5,8 +5,8 @@
 <h1 align="center">Hii there!, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="35"
-         width="35" />I'm Sakshi Tanwar
-
+         width="35" />I'm Sakshi 
+         
 
 
 
@@ -19,7 +19,7 @@
 
 <b><h1> 💫 About Me:</h1></b>
 🔭 I am Currently Learning AI. As an AI learner, strive not only to understand the technology but also the ethical implications and the responsibility that comes with it."Embrace AI, unleash innovation."
-<img align="right" alt="coding" width="300" src="https://github.com/Tanwar-12/Tanwar-12/blob/main/github%20gif.gif">
+
 
 <br>🏄‍  I have always gotten a thrill,a kick, from learning new things.<br> 👀 Areas of interest: AI/Data Science.
 - 💞️ I’m looking to collaborate on Deep learning Projects.
