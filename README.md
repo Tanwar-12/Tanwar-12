@@ -19,7 +19,8 @@
 <b><h1> 💫 About Me:</h1></b>
 🔭 I am Currently Learning AI. As an AI learner, strive not only to understand the technology but also the ethical implications and the responsibility that comes with it."Embrace AI, unleash innovation."
 
-<br>🏄‍  I have always gotten a thrill,a kick, from learning new things.<br><br>🤔 Areas of Interest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</br><br><br>💬 Ask me about Python,Machine Learning<br><br>📫 How to reach me :tanwarsakshi1717157@gmail.com<br><br>⚡ Fun fact:Exercise boosts mood and happiness.
+<br>🏄‍  I have always gotten a thrill,a kick, from learning new things.<br> 👀 Areas of interest:AI/Data Science.
+- 💞️ I’m looking to collaborate on Deep learning Projects. </br><br><br>💬 Ask me about AI/DATA SCIENCE.<br><br>📫 How to reach me :tanwarsakshi1717157@gmail.com<br><br>⚡ Fun fact:Exercise boosts mood and happiness.
 
 
 
