@@ -22,7 +22,7 @@
 
 <br>🏄‍  I have always gotten a thrill,a kick, from learning new things.<br> 👀 Areas of interest: AI/Data Science.
 - 💞️ I’m looking to collaborate on Deep learning Projects.
-- :smile: Happy Learning </br><br><br>💬 Ask me about AI/DATA SCIENCE.<br><br>📫 How to reach me :tanwarsakshi1717157@gmail.com<br><br>⚡ Fun fact:Exercise boosts mood and happiness.
+- :smile: Happy Learning </br><br>💬 Ask me about AI/DATA SCIENCE.<br><br>📫 How to reach me :tanwarsakshi1717157@gmail.com<br><br>⚡ Fun fact:Exercise boosts mood and happiness.
 
 
 
