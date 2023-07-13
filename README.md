@@ -7,7 +7,7 @@
          width="45"/> I'm Sakshi Tanwar
 
 
-   <p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=ADFF2F&size=40&width=750&height=80&lines=Welcome,+To+MY+Profile"/>
+   <p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=ADFF2F&size=40&width=750&height=80&lines=Welcome!+To+MY+Profile"/>
 </p>
          
 
