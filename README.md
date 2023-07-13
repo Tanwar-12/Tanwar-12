@@ -21,11 +21,10 @@
 📝I am Currently Learning AI."Embrace AI, unleash innovation."<br><br>
 
 
-🏄‍  I have always gotten a thrill,a kick, from learning new things.<br><br> 
-- 👀 Areas of interest: Data Science/AI.
+🏄‍  I have always gotten a thrill,a kick, from learning new things.<br>
 - 👯 I’m looking to collaborate on Deep learning Projects.
 - :smile: Happy Learning
-- 💬 Ask me about : AI/DATA SCIENCE.<br><br>📫 How to reach me :tanwarsakshi1717157@gmail.com<br><br>⚡ Fun fact:Exercise boosts mood and happiness.
+- 💬 Ask me about : AI/ML.<br><br>📫 How to reach me :tanwarsakshi1717157@gmail.com<br><br>⚡ Fun fact:Exercise boosts mood and happiness.
 
 
 
