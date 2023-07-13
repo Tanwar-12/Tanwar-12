@@ -11,9 +11,6 @@
 </p>
          
 
-
-
-
 <h2 align="center"> 
           
 <b>  Numbers come alive, stories unfold - the passion of a data scientist</b></h2> 
