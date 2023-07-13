@@ -24,7 +24,7 @@
 🏄‍  I have always gotten a thrill,a kick, from learning new things.<br>
 - 👯 I’m looking to collaborate on Deep learning Projects.
 - :smile: Happy Learning
-- 💬 Ask me about : AI/ML.<br><br>📫 How to reach me :tanwarsakshi1717157@gmail.com<br><br>⚡ Fun fact:Exercise boosts mood and happiness.
+<br> <br>💬 Ask me about Data Science (AI/ML).<br><br>📫 How to reach me :tanwarsakshi1717157@gmail.com<br><br>⚡ Fun fact:Exercise boosts mood and happiness.
 
 
 
