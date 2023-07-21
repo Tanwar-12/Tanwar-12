@@ -67,7 +67,7 @@
 
 
   
-<b>❤️Your visit to my GitHub profile is a celebration of the fusion between data science and my love for India. Together, let's embrace the power of data to create positive change!❤️</b>
+<b>❤️It doesn't matter your skill level on sites or anywhere else like this. The important thing is to be the first person somewhere else.❤️</b>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
