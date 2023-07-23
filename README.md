@@ -3,7 +3,6 @@
 
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwar-12&label=Profile%20views&color=0e75b6&style="flat" alt="tanwar-12" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;ML+Engineer🛠️;Coder+💻;)](https://git.io/typing-svg)
 <h1 align="center"> Hii there,<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" 
