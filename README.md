@@ -1,5 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Tanwar-12&style=for-the-badge&color=orange)
-[![Tanwar-12's stars](https://custom-icon-badges.demolab.com/github/stars/Tanwar-12?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
+[![Tanwar-12's stars](https://custom-icon-badges.demolab.com/github/stars/Tanwar-12?color=55960c&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
 
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
 
