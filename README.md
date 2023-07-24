@@ -38,7 +38,7 @@
 
 
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="20%"> 
 
 ## 🌐 Socials: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
