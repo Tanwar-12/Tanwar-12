@@ -52,7 +52,7 @@
 
  [![Geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-2F4F4F?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/tanwarsakshi1717157/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
 
- [![Leetcode](https://img.shields.io/badge/Leetcode-BDB76B?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/STanwar16/)
+ [![Leetcode](https://img.shields.io/badge/Leetcode-2B1B17?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/STanwar16/)
  
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> 💻 Tech Stack:
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
