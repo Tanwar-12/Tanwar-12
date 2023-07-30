@@ -38,7 +38,7 @@
 
 
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="20%"> 
+
 
 ## 🌐 Socials:<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 [![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-t-69a241250)   [![](https://img.shields.io/badge/Gmail-DB7093?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techtanwar03@gmail.com)  [![Quora](https://img.shields.io/badge/Quora-BDB76B?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/S2tech) 
