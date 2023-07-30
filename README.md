@@ -41,10 +41,10 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="20%"> 
 
 ## 🌐 Socials:
-[![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-t-69a241250)   [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techtanwar03@gmail.com) 
+[![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-t-69a241250)   [![](https://img.shields.io/badge/Gmail-DB7093?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techtanwar03@gmail.com) 
 
- [![Quora](https://img.shields.io/badge/Quora-%23B92B27?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/S2tech) 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_dst8313_)
+ [![Quora](https://img.shields.io/badge/Quora-%BDB76B?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/S2tech) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%D2691E?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_dst8313_)
 
  [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22276125/sakshi-tanwar)
 
