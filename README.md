@@ -43,8 +43,8 @@
 ## 🌐 Socials:<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 [![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-t-69a241250)   [![](https://img.shields.io/badge/Gmail-DB7093?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techtanwar03@gmail.com)  [![Quora](https://img.shields.io/badge/Quora-BDB76B?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/S2tech) 
  [![Instagram](https://img.shields.io/badge/Instagram-D2691E?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_dst8313_) [![](https://img.shields.io/badge/Stack_Overflow-BC8F8F?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22276125/sakshi-tanwar) [![Hackerrank](https://img.shields.io/badge/hackerrank-39E09B?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dashboard) [![Geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-2F4F4F?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/tanwarsakshi1717157/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
- [![Leetcode](https://img.shields.io/badge/Leetcode-2B1B17?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/STanwar16/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-BDB76B?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+ [![Leetcode](https://img.shields.io/badge/Leetcode-C8A951?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/STanwar16/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-BC544B?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 
  
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> 💻 Tech Stack:
