@@ -33,8 +33,8 @@
 
 🏄‍  I have always gotten a thrill,a kick, from learning new things.<br>
 - 👯 I’m looking to collaborate on Deep learning Projects.
-- :smile: Happy Learning
-<br> <br>💬 Ask me about Data Science (AI/ML).<br><br>📫 "In the binary dance of AI, the future finds its rhythm." 💃<br><br>⚡ Fun fact:Exercise boosts mood and happiness.
+- :smile: Happy Learning 
+"The only limit to our realization of tomorrow will be our doubts of today."<br> <br>💬 Ask me about Data Science (AI/ML).<br><br>📫 "In the binary dance of AI, the future finds its rhythm." 💃<br><br>⚡ Fun fact:Exercise boosts mood and happiness.
 
 
 
