@@ -85,5 +85,5 @@
 
 <div align="center">
 
-<img height="180" alt="Thanks for visiting me" width="400%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="180" alt="Thanks for visiting me" width="200%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
