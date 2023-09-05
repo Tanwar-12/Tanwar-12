@@ -40,8 +40,8 @@
 
 
 
+## 🌐  𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑊𝑖𝑡ℎ 𝑀𝑒 !<img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">
 
-## 🌐 Socials:<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 [![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-t-69a241250)  [![Gmail](https://img.shields.io/badge/Gmail-DB7093?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techtanwar03@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-BC544B?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
  [![Hackerrank](https://img.shields.io/badge/hackerrank-39E09B?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dashboard)[![Leetcode](https://img.shields.io/badge/Leetcode-C8A951?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/STanwar16/) [![Codechef](https://img.shields.io/badge/Codechef-000080?style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/techtanwar03) 
 [![Quora](https://img.shields.io/badge/Quora-4D0F28?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/S2tech)  [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-BC8F8F?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22276125/sakshi-tanwar) [![Geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-2F4F4F?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/tanwarsakshi1717157/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
