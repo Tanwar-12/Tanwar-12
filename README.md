@@ -28,7 +28,7 @@
 
 
 
-<img align="right" alt="coding" width="300" src="https://github.com/Tanwar-12/Tanwar-12/assets/110081008/a1a4d1dd-319b-42f4-b6e8-5d2f102f3de6">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 
 
 🏄‍  I have always gotten a thrill,a kick, from learning new things.<br>
