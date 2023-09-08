@@ -1,7 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Tanwar-12&style=for-the-badge&color=orange)
 [![Tanwar-12's stars](https://custom-icon-badges.demolab.com/github/stars/Tanwar-12?color=55960c&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
 
-<img src ="https://wakatime.com/badge/user/tanwar-12-f4cc-41fa-a902-21598fa7345a.svg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;AI+Learner🛠️;Coder+💻;)](https://git.io/typing-svg)
 <h1 align="center"> Hii there,<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" 
