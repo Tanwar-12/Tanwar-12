@@ -27,7 +27,7 @@
 
 
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif">
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/5e75688fb8f6e7d90426a792b2f5df21d8ce4a652b91361a033b0aa705450c58/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966">
 
 
 🏄‍  I have always gotten a thrill,a kick, from learning new things.<br>
