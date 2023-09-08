@@ -76,7 +76,7 @@
 
 
   
-<b>❤️It doesn't matter your skill level on sites or anywhere else like this. The important thing is to be the first person somewhere else.❤️</b>
+<b>❤️It doesn't matter your skill level on sites or anywhere else like this. The important thing is to be the first person somewhere else❤️</b>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
