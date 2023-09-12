@@ -59,7 +59,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tanwar-12&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="800px">
 
 
 ### ✍️ Random Dev Quote
@@ -71,15 +70,15 @@
 ---
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px"><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
+  
   
 <b>❤️It doesn't matter your skill level on sites or anywhere else like this. The important thing is to be the first person somewhere else❤️</b>
 </div>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
