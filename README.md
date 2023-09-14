@@ -3,7 +3,10 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;AI+Learner🛠️;Coder+💻;)](https://git.io/typing-svg)
-<h1 align="center"> Hii there,<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" 
+
+<h1 align="center"> Hey,Nice to see you.
+
+<h2 align="center"> Hii there,<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45"/> I'm Sakshi Tanwar
