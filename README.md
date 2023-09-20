@@ -34,7 +34,10 @@
 
 
 🏄‍  I have always gotten a thrill,a kick, from learning new things.<br>
-- 👯Data whispers, AI listens. .
+
+- 👯Data whispers, AI listens.
+  
+- ⚡ My perfect day would start with watching problem and end with solving problem.😅
   
 - :smile: Happy Learning 
 "The only limit to our realization of tomorrow will be our doubts of today."<br> <br>💬 Ask me about Data Science (AI/ML).<br><br>📫 "In the binary dance of AI, the future finds its rhythm." 💃<br><br>⚡ Fun fact: Debuggers by day, problem solvers by night🌙.
