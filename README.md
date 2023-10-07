@@ -2,6 +2,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Tanwar-12&style=for-the-badge&color=orange)
 [![Tanwar-12's stars](https://custom-icon-badges.demolab.com/github/stars/Tanwar-12?color=55960c&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
 
+![Github  Banner](https://github.com/Tanwar-12/Tanwar-12/assets/110081008/4e6ee90d-cf62-446d-97f0-0f4b4ddd8d46)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;AI+Learner🛠️;Coder+💻;)](https://git.io/typing-svg)
