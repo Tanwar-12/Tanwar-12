@@ -45,6 +45,7 @@
 - ⚡ My perfect day would start with watching problem and end with solving problem.😅
 
 - Subconsciously resolves coding issues in Dreamland. Win-win! 💤👩🏽‍💻
+- Knowledge has no limits; keep pushing them.
   
 - :smile: Happy Learning 
 "The only limit to our realization of tomorrow will be our doubts of today."<br> <br>💬 Ask me about Data Science (AI/ML).<br><br>📫 "In the binary dance of AI, the future finds its rhythm." 💃<br><br>⚡ Fun fact: Debuggers by day, problem solvers by night🌙.
