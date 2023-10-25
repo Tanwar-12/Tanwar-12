@@ -22,6 +22,8 @@
 <h2 align="center"> 
           
 <b>  Numbers come alive, stories unfold - the passion of a data scientist</b></h2> 
+<h2 align="center"> 
+<b> Every skill you acquire doubles your odds of success.</b></h2>
 
 
 
