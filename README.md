@@ -98,9 +98,10 @@
 
 | Projects |  | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| Deep Learning | [Emotion_Detection-Using-Yolov5](https://github.com/Tanwar-12/Emotion_Detection-Using-Yolov5/) | - | `Deep Learning` `Yolov5`  | 
-
-
+| Deep Learning | [Emotion_Detection](https://github.com/Tanwar-12/Emotion_Detection-Using-Yolov5/) | - | `Deep Learning` `Yolov5`  | 
+| Deep Learning | [Traffic Sign Detection](https://github.com/Tanwar-12/Traffic-Sign-Detection-) | [view](https://github.com/Tanwar-12/Traffic-Sign-Detection-) |`Deep Learning` `Yolov5` `Python`| 
+| Deep Learning | [Face Mask Detection](https://github.com/Tanwar-12/Face-Mask-Detection) | [view](https://github.com/Tanwar-12/Face-Mask-Detection) |`Deep Learning` `Yolov5' 'Python'| 
+| Deep Learning | [Face Mask Detection]() | [view] () |`Deep Learning` `Yolov5` `Python' | 
 
 
 
