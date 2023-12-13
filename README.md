@@ -114,15 +114,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
   
-  <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Tanwar-12/Tanwar-12/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
- 
-<b>❤️It doesn't matter your skill level on sites or anywhere else like this. The important thing is to be the first person somewhere else❤️</b>
+   <b>❤️It doesn't matter your skill level on sites or anywhere else like this. The important thing is to be the first person somewhere else❤️</b>
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
   
