@@ -104,6 +104,8 @@
 | Deep Learning | [Face Mask Detection](https://github.com/Tanwar-12/Face-Mask-Detection) | [view](https://github.com/Tanwar-12/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`| 
 | Deep Learning | [Crop-Diseases-Detection](https://github.com/Tanwar-12/Crop-Diseases-Detection-) | [view](https://github.com/Tanwar-12/Crop-Diseases-Detection-) |`Deep Learning` `Yolov5` `Python` | 
 | CNN | [Covid-19-Image-Classification](https://github.com/Tanwar-12/Covid-19-Image-Classification) | [view](https://github.com/Tanwar-12/Covid-19-Image-Classification) |`cnn classification` `python`  | 
+| CNN | [Skin -Cancer -Classification](https://github.com/Tanwar-12/Skin_-Cancer-_Classification) | [view](https://github.com/Tanwar-12/Skin_-Cancer-_Classification) |`Keras tensorflow,cnn classification` `Vgg16`  | 
+
 
 
 
