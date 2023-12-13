@@ -6,15 +6,11 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;AI+Learner🛠️;Coder+💻;)](https://git.io/typing-svg)
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
 
-<h2 align="center"> Hii there,<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45"/> I'm Sakshi Tanwar
 
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1><h2 align="center"> Greetings! It's great to have you here. I'm Sakshi Tanwar, an enthusiastic Data Scientist hailing from India.
 
    <p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=900C3F&size=40&width=750&height=80&lines=Welcome!+To+MY+Profile"/>
 </p>
@@ -24,7 +20,7 @@
           
 <b>  Numbers come alive, stories unfold - the passion of a data scientist</b></h2> 
 <h2 align="center"> 
-<b> Every skill you acquire doubles your odds of success.</b></h2>
+</h2>
 
 
 
@@ -118,7 +114,14 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
   
-  
+  <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Tanwar-12/Tanwar-12/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ 
 <b>❤️It doesn't matter your skill level on sites or anywhere else like this. The important thing is to be the first person somewhere else❤️</b>
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
