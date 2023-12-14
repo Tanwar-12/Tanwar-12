@@ -107,7 +107,7 @@
 | CNN | [Skin -Cancer -Classification](https://github.com/Tanwar-12/Skin_-Cancer-_Classification) | [view](https://github.com/Tanwar-12/Skin_-Cancer-_Classification) |`Keras tensorflow,cnn classification` `Vgg16`  | 
 | CNN | [Flower -Classification](https://github.com/Tanwar-12/Flowers--Classification) | [view](https://github.com/Tanwar-12/Flowers--Classification) |`tensorflow,Vgg19` `Vgg16`  | 
 | CNN | [MNIST-Classification](https://github.com/Tanwar-12/MNIST-Multiclass-Classification) | [view](https://github.com/Tanwar-12/MNIST-Multiclass-Classification) |`Mnist`  | 
-
+| CNN | [Beauty-Classification](https://github.com/Tanwar-12/Beauty-Classification) | [view](https://github.com/Tanwar-12/Beauty-Classification) |`Cnn Classification`  |
 
 
 
