@@ -113,7 +113,7 @@
 | Machine Learning | [Automobile-Imports-Prediction  ](https://github.com/Tanwar-12/Automobile-Imports-Prediction) | [view](https://github.com/Tanwar-12/Automobile-Imports-Prediction) |`Machine Learning,Python`  |
 | Machine Learning | [NBA-SHOT-SELECTION ](https://github.com/Tanwar-12/NBA-SHOT-SELECTION) | [view](https://github.com/Tanwar-12/NBA-SHOT-SELECTION) |`Machine Learning,Python`  |
 | Machine Learning | [Employee Performance Analysis ](https://github.com/Tanwar-12/Employees-performance-analysis) | [view](https://github.com/Tanwar-12/Employees-performance-analysis) |`Machine Learning,Python`  |
-
+| Machine Learning | [Doctor-Consultancy-Fees-Prediction ](https://github.com/Tanwar-12/Doctor-Consultancy-Fees-Prediction) | [view](https://github.com/Tanwar-12/Doctor-Consultancy-Fees-Prediction) |`Machine Learning,Python`  |
 
 
 # 📊 GitHub Stats:
