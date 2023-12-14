@@ -110,8 +110,11 @@
 | CNN | [Beauty-Classification](https://github.com/Tanwar-12/Beauty-Classification) | [view](https://github.com/Tanwar-12/Beauty-Classification) |`Cnn Classification`  |
 | Machine Learning | [Fifa20 Clustering](https://github.com/Tanwar-12/Fifa20-Clustering) | [view](https://github.com/Tanwar-12/Fifa20-Clustering) |`Machine Learning,Clustering,Python`  |
 | Machine Learning | [Vaccine Prediction](https://github.com/Tanwar-12/Vaccine-Prediction) | [view](https://github.com/Tanwar-12/Vaccine-Prediction) |`Machine Learning,Python`  |
-
-
+| Machine Learning | [Blood DonationPrediction](https://github.com/Tanwar-12/Blood-Donation-Prediction) | [view](https://github.com/Tanwar-12/Blood-Donation-Prediction) |`Machine Learning,Python`  |
+| Machine Learning | [Portuguese-bank-marketing ](https://github.com/Tanwar-12/Portuguese-bank-marketing) | [view](https://github.com/Tanwar-12/Portuguese-bank-marketing) |`Machine Learning,Python`  |
+| Machine Learning | [Automobile-Imports-Prediction  ](https://github.com/Tanwar-12/Automobile-Imports-Prediction) | [view](https://github.com/Tanwar-12/Automobile-Imports-Prediction) |`Machine Learning,Python`  |
+| Machine Learning | [NBA-SHOT-SELECTION ](https://github.com/Tanwar-12/NBA-SHOT-SELECTION) | [view](https://github.com/Tanwar-12/NBA-SHOT-SELECTION) |`Machine Learning,Python`  |
+| Machine Learning | [Employee Performance Analysis ](https://github.com/Tanwar-12/Employees-performance-analysis) | [view](https://github.com/Tanwar-12/Employees-performance-analysis) |`Machine Learning,Python`  |
 
 
 
