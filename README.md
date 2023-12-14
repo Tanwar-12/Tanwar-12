@@ -108,8 +108,8 @@
 | CNN | [Flower -Classification](https://github.com/Tanwar-12/Flowers--Classification) | [view](https://github.com/Tanwar-12/Flowers--Classification) |`tensorflow,Vgg19` `Vgg16`  | 
 | CNN | [MNIST-Classification](https://github.com/Tanwar-12/MNIST-Multiclass-Classification) | [view](https://github.com/Tanwar-12/MNIST-Multiclass-Classification) |`Mnist`  | 
 | CNN | [Beauty-Classification](https://github.com/Tanwar-12/Beauty-Classification) | [view](https://github.com/Tanwar-12/Beauty-Classification) |`Cnn Classification`  |
-
-
+| Machine Learning | [Fifa20 Clustering](https://github.com/Tanwar-12/Fifa20-Clustering) | [view](https://github.com/Tanwar-12/Fifa20-Clustering) |`Machine Learning,Clustering,Python`  |
+| Machine Learning | [Vaccine Prediction](https://github.com/Tanwar-12/Vaccine-Prediction) | [view](https://github.com/Tanwar-12/Vaccine-Prediction) |`Machine Learning,Python`  |
 
 
 
