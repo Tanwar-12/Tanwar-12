@@ -105,6 +105,8 @@
 | Deep Learning | [Crop-Diseases-Detection](https://github.com/Tanwar-12/Crop-Diseases-Detection-) | [view](https://github.com/Tanwar-12/Crop-Diseases-Detection-) |`Deep Learning` `Yolov5` `Python` | 
 | CNN | [Covid-19-Image-Classification](https://github.com/Tanwar-12/Covid-19-Image-Classification) | [view](https://github.com/Tanwar-12/Covid-19-Image-Classification) |`cnn classification` `python`  | 
 | CNN | [Skin -Cancer -Classification](https://github.com/Tanwar-12/Skin_-Cancer-_Classification) | [view](https://github.com/Tanwar-12/Skin_-Cancer-_Classification) |`Keras tensorflow,cnn classification` `Vgg16`  | 
+| CNN | [Flower -Classification](https://github.com/Tanwar-12/Flowers--Classification) | [view](https://github.com/Tanwar-12/Flowers--Classification) |`tensorflow,Vgg19` `Vgg16`  | 
+| CNN | [MNIST-Classification](https://github.com/Tanwar-12/MNIST-Multiclass-Classification) | [view](https://github.com/Tanwar-12/MNIST-Multiclass-Classification) |`Mnist`  | 
 
 
 
