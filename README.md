@@ -18,7 +18,7 @@
 
 
 
-<b><h1> <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me:
+<b><h1> <img src = "https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width = 6.5%> About me:
 </h1></b>
 📖 I'm Currently Learning AI."Embrace AI, unleash innovation."<br><br>
 
