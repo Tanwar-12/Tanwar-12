@@ -102,7 +102,7 @@
 | Deep Learning |  | -  | 
 | Deep Learning | [Traffic Sign Detection](https://github.com/Tanwar-12/Traffic-Sign-Detection-) | [view](https://github.com/Tanwar-12/Traffic-Sign-Detection-) |`Deep Learning` `Yolov5` `Python`|
 | Deep Learning | [Vehicles Object Detection](https://github.com/Tanwar-12/Vehicles-Object-Detection) | [view](https://github.com/Tanwar-12/Vehicles-Object-Detection) |`Deep Learning` `Yolov5` `Python`| 
-| Deep Learning | [Detecting-the-type-of-skin-diseases-detection](https://github.com/Tanwar-12/Detecting-the-type-of-skin-diseases-detection) | [view[](https://github.com/Tanwar-12/Detecting-the-type-of-skin-diseases-detection) |`Deep Learning` `Image Classification` `Python`| 
+| Deep Learning | [Detecting-the-type-of-skin-diseases-detection](https://github.com/Tanwar-12/Detecting-the-type-of-skin-diseases-detection) | [view](https://github.com/Tanwar-12/Detecting-the-type-of-skin-diseases-detection) |`Deep Learning` `Image Classification` `Python`| 
 | Deep Learning | [Chess Pieces Detection](https://github.com/Tanwar-12/Chess-Pieces-Detection) | [view](https://github.com/Tanwar-12/Chess-Pieces-Detection) |`Deep Learning` `Yolov5` `Python`|
 | Deep Learning | [Euro Coin Detection](https://github.com/Tanwar-12/Euro-Coin-Detection) | [view](https://github.com/Tanwar-12/Euro-Coin-Detection) |`Deep Learning` `Yolov5` `Python`| 
 | Deep Learning | [Emotion_Detection](https://github.com/Tanwar-12/Emotion_Detection-Using-Yolov5/) | [view](https://github.com/Tanwar-12/Emotion_Detection-Using-Yolov5/) |`Deep Learning` `Yolov5` `Python`|  
