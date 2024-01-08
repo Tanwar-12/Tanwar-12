@@ -9,7 +9,7 @@
 
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1><h2 align="center"> Greetings! It's great to have you here. I'm Sakshi Tanwar, an enthusiastic Data Scientist hailing from India.</h2>
-<h3 align="center"> Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.</h3>
+
    <p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=900C3F&size=40&width=750&height=80&lines=Welcome!+To+MY+Profile"/>
 </p>
          
