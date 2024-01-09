@@ -100,38 +100,40 @@
 | Projects |  | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
 | Deep Learning |  | -  | 
-| Deep Learning | [Traffic Sign Detection](https://github.com/Tanwar-12/Traffic-Sign-Detection-) | [view](https://github.com/Tanwar-12/Traffic-Sign-Detection-) |`Deep Learning` `Yolov5` `Python`|
-| Deep Learning | [Vehicles Object Detection](https://github.com/Tanwar-12/Vehicles-Object-Detection) | [view](https://github.com/Tanwar-12/Vehicles-Object-Detection) |`Deep Learning` `Yolov5` `Python`| 
-| Deep Learning | [Detecting-the-type-of-skin-diseases-detection](https://github.com/Tanwar-12/Detecting-the-type-of-skin-diseases-detection) | [view](https://github.com/Tanwar-12/Detecting-the-type-of-skin-diseases-detection) |`Deep Learning` `Image Classification` `Python`| 
-| Deep Learning | [Chess Pieces Detection](https://github.com/Tanwar-12/Chess-Pieces-Detection) | [view](https://github.com/Tanwar-12/Chess-Pieces-Detection) |`Deep Learning` `Yolov5` `Python`|
-| Deep Learning | [Euro Coin Detection](https://github.com/Tanwar-12/Euro-Coin-Detection) | [view](https://github.com/Tanwar-12/Euro-Coin-Detection) |`Deep Learning` `Yolov5` `Python`| 
-| Deep Learning | [Emotion_Detection](https://github.com/Tanwar-12/Emotion_Detection-Using-Yolov5/) | [view](https://github.com/Tanwar-12/Emotion_Detection-Using-Yolov5/) |`Deep Learning` `Yolov5` `Python`|  
-| Deep Learning | [Face Mask Detection](https://github.com/Tanwar-12/Face-Mask-Detection) | [view](https://github.com/Tanwar-12/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`| 
-| Deep Learning | [Crop-Diseases-Detection](https://github.com/Tanwar-12/Crop-Diseases-Detection-) | [view](https://github.com/Tanwar-12/Crop-Diseases-Detection-) |`Deep Learning` `Yolov5` `Python` | 
-| NLP | [Sentiment-Emotion-Analysis](https://github.com/Tanwar-12/Sentiment-Emotion-Analysis-Using-NLP) | [view](https://github.com/Tanwar-12/Sentiment-Emotion-Analysis-Using-NLP) |`NLP,Python`  |
-| NLP | [IMDB Sentiment Analysis](https://github.com/Tanwar-12/IMDB-SENTIMENT-ANALYSIS) | [view](https://github.com/Tanwar-12/IMDB-SENTIMENT-ANALYSIS) |`NLP,Python`  |
-| NLP | [Quora-Question-Pair ](https://github.com/Tanwar-12/Quora-Question-Pair) | [view](https://github.com/Tanwar-12/Quora-Question-Pair) |`NLP,Python`  |
-| CNN | [Covid-19-Image-Classification](https://github.com/Tanwar-12/Covid-19-Image-Classification) | [view](https://github.com/Tanwar-12/Covid-19-Image-Classification) |`cnn classification` `python`  | 
-| CNN | [Skin -Cancer -Classification](https://github.com/Tanwar-12/Skin_-Cancer-_Classification) | [view](https://github.com/Tanwar-12/Skin_-Cancer-_Classification) |`Keras tensorflow,cnn classification` `Vgg16`  | 
-| CNN | [Flower -Classification](https://github.com/Tanwar-12/Flowers--Classification) | [view](https://github.com/Tanwar-12/Flowers--Classification) |`tensorflow,Vgg19` `Vgg16`  | 
-| CNN | [MNIST-Classification](https://github.com/Tanwar-12/MNIST-Multiclass-Classification) | [view](https://github.com/Tanwar-12/MNIST-Multiclass-Classification) |`Mnist`  | 
-| CNN | [Beauty-Classification](https://github.com/Tanwar-12/Beauty-Classification) | [view](https://github.com/Tanwar-12/Beauty-Classification) |`Cnn Classification`  |
-| Machine Learning | [Fifa20 Clustering](https://github.com/Tanwar-12/Fifa20-Clustering) | [view](https://github.com/Tanwar-12/Fifa20-Clustering) |`Machine Learning,Clustering,Python`  |
-| Machine Learning | [Vaccine Prediction](https://github.com/Tanwar-12/Vaccine-Prediction) | [view](https://github.com/Tanwar-12/Vaccine-Prediction) |`Machine Learning,Python`  |
-| Machine Learning | [Blood DonationPrediction](https://github.com/Tanwar-12/Blood-Donation-Prediction) | [view](https://github.com/Tanwar-12/Blood-Donation-Prediction) |`Machine Learning,Python`  |
-| Machine Learning | [Portuguese-bank-marketing ](https://github.com/Tanwar-12/Portuguese-bank-marketing) | [view](https://github.com/Tanwar-12/Portuguese-bank-marketing) |`Machine Learning,Python`  |
-| Machine Learning | [Automobile-Imports-Prediction  ](https://github.com/Tanwar-12/Automobile-Imports-Prediction) | [view](https://github.com/Tanwar-12/Automobile-Imports-Prediction) |`Machine Learning,Python`  |
-| Machine Learning | [NBA-SHOT-SELECTION ](https://github.com/Tanwar-12/NBA-SHOT-SELECTION) | [view](https://github.com/Tanwar-12/NBA-SHOT-SELECTION) |`Machine Learning,Python`  |
-| Machine Learning | [Employee Performance Analysis ](https://github.com/Tanwar-12/Employees-performance-analysis) | [view](https://github.com/Tanwar-12/Employees-performance-analysis) |`Machine Learning,Python`  |
-| Machine Learning | [Doctor-Consultancy-Fees-Prediction ](https://github.com/Tanwar-12/Doctor-Consultancy-Fees-Prediction) | [view](https://github.com/Tanwar-12/Doctor-Consultancy-Fees-Prediction) |`Machine Learning,Python`  |
-| Machine Learning | [ Diwali-Sales-Analysis ](https://github.com/Tanwar-12/Diwali-Sales-Analysis) | [view](https://github.com/Tanwar-12/Diwali-Sales-Analysis) |`Data Analysis,Python`  |
-| Machine Learning | [Flight-fare-prediction  ](https://github.com/Tanwar-12/Flight-fare-prediction) | [view](https://github.com/Tanwar-12/Flight-fare-prediction) |`Machine Learning,Python`  |
-| Machine Learning | [Chandrayaan-3-Data-Analysis  ](https://github.com/Tanwar-12/Chandrayaan-3-Data-Analysis) | [view](https://github.com/Tanwar-12/Chandrayaan-3-Data-Analysis) |`Machine Learning,Python`  |
-| Machine Learning | [Customer-transaction-prediction  ](https://github.com/Tanwar-12/Customer-transaction-prediction) | [view](https://github.com/Tanwar-12/Customer-transaction-prediction) |`Machine Learning,Python`  |
-| Machine Learning | [Heart-Diseases-Prediction ](https://github.com/Tanwar-12/Heart-Diseases-Prediction) | [view](https://github.com/Tanwar-12/Heart-Diseases-Prediction) |`Machine Learning,Python`  |
-| Machine Learning | [Customer-purchase-intent-prediction](https://github.com/Tanwar-12/Customer-purchase-intent-prediction) | [view](https://github.com/Tanwar-12/Customer-purchase-intent-prediction) |`Machine Learning,Python`  |
-| Machine Learning | [Optimising-Agriculture-production](https://github.com/Tanwar-12/Optimising-Agriculture-production) | [view](https://github.com/Tanwar-12/Optimising-Agriculture-production) |`Machine Learning,Python`  |
-| Machine Learning | [ Texas-Salary-Prediction ](https://github.com/Tanwar-12/Texas-Salary-Prediction) | [view](https://github.com/Tanwar-12/Texas-Salary-Prediction) |`Machine Learning,Python`  |
+| Traffic Sign Detection  |Deep Learning| [view](https://github.com/Tanwar-12/Traffic-Sign-Detection-) |`Deep Learning` `Yolov5` `Python`|
+| Vehicles Object Detection |Deep Learning| [view](https://github.com/Tanwar-12/Vehicles-Object-Detection) |`Deep Learning` `Yolov5` `Python`| 
+| Detecting-the-type-of-skin-diseases-detection|Deep Learning| [view](https://github.com/Tanwar-12/Detecting-the-type-of-skin-diseases-detection) |`Deep Learning` `Image Classification` `Python`| 
+|Chess Pieces Detection| Deep Learning| [view](https://github.com/Tanwar-12/Chess-Pieces-Detection) |`Deep Learning` `Yolov5` `Python`|
+| Euro Coin Detection| Deep Learning | [view](https://github.com/Tanwar-12/Euro-Coin-Detection) |`Deep Learning` `Yolov5` `Python`| 
+| Emotion_Detection| Deep Learning | [view](https://github.com/Tanwar-12/Emotion_Detection-Using-Yolov5/) |`Deep Learning` `Yolov5` `Python`|  
+| Face Mask Detection|Deep Learning | [view](https://github.com/Tanwar-12/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`| 
+| Crop-Diseases-Detection| Deep Learning| [view](https://github.com/Tanwar-12/Crop-Diseases-Detection-) |`Deep Learning` `Yolov5` `Python` | 
+| Sentiment-Emotion-Analysis|NLP | [view](https://github.com/Tanwar-12/Sentiment-Emotion-Analysis-Using-NLP) |`NLP,Python`  |
+| IMDB Sentiment Analysis|NLP| [view](https://github.com/Tanwar-12/IMDB-SENTIMENT-ANALYSIS) |`NLP,Python`  |
+| Quora-Question-Pair|NLP| [view](https://github.com/Tanwar-12/Quora-Question-Pair) |`NLP,Python`  |
+|Covid-19-Image-Classification |CNN | [view](https://github.com/Tanwar-12/Covid-19-Image-Classification) |`cnn classification` `python`  | 
+| Skin -Cancer -Classification |CNN | [view](https://github.com/Tanwar-12/Skin_-Cancer-_Classification) |`Keras tensorflow,cnn classification` `Vgg16`  | 
+|Flower -Classification |CNN| [view](https://github.com/Tanwar-12/Flowers--Classification) |`tensorflow,Vgg19` `Vgg16`  | 
+| MNIST-Classification|CNN| [view](https://github.com/Tanwar-12/MNIST-Multiclass-Classification) |`Mnist`  | 
+|Beauty-Classification|CNN| [view](https://github.com/Tanwar-12/Beauty-Classification) |`Cnn Classification`  |
+| Fifa20 Clustering|Machine Learning| [view](https://github.com/Tanwar-12/Fifa20-Clustering) |`Machine Learning,Clustering,Python`  |
+|Vaccine Prediction|Machine Learning | [view](https://github.com/Tanwar-12/Vaccine-Prediction) |`Machine Learning,Python`  |
+|Blood DonationPrediction|Machine Learning | [view](https://github.com/Tanwar-12/Blood-Donation-Prediction) |`Machine Learning,Python`  |
+|Portuguese-bank-marketing|Machine Learning | [view](https://github.com/Tanwar-12/Portuguese-bank-marketing) |`Machine Learning,Python`  |
+| Automobile-Imports-Prediction |Machine Learning  | [view](https://github.com/Tanwar-12/Automobile-Imports-Prediction) |`Machine Learning,Python`  |
+| NBA-SHOT-SELECTION |Machine Learning | [view](https://github.com/Tanwar-12/NBA-SHOT-SELECTION) |`Machine Learning,Python`  |
+| Employee Performance Analysis |Machine Learning| [view](https://github.com/Tanwar-12/Employees-performance-analysis) |`Machine Learning,Python`  |
+|Doctor-Consultancy-Fees-Prediction |Machine Learning | [view](https://github.com/Tanwar-12/Doctor-Consultancy-Fees-Prediction) |`Machine Learning,Python`  |
+| Diwali-Sales-Analysis |Machine Learning| [view](https://github.com/Tanwar-12/Diwali-Sales-Analysis) |`Data Analysis,Python`  |
+| Flight-fare-prediction |Machine Learning | [view](https://github.com/Tanwar-12/Flight-fare-prediction) |`Machine Learning,Python`  |
+|Chandrayaan-3-Data-Analysis |Machine Learning | [view](https://github.com/Tanwar-12/Chandrayaan-3-Data-Analysis) |`Machine Learning,Python`  |
+| Customer-transaction-prediction |Machine Learning | [view](https://github.com/Tanwar-12/Customer-transaction-prediction) |`Machine Learning,Python`  |
+|Heart-Diseases-Prediction |Machine Learning| [view](https://github.com/Tanwar-12/Heart-Diseases-Prediction) |`Machine Learning,Python`  |
+|Customer-purchase-intent-prediction|Machine Learning | [view](https://github.com/Tanwar-12/Customer-purchase-intent-prediction) |`Machine Learning,Python`  |
+|Optimising-Agriculture-production|Machine Learning | [view](https://github.com/Tanwar-12/Optimising-Agriculture-production) |`Machine Learning,Python`  |
+| Texas-Salary-Prediction |Machine Learning | [view](https://github.com/Tanwar-12/Texas-Salary-Prediction) |`Machine Learning,Python`  |
+
+
 
 
 
