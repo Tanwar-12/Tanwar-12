@@ -21,6 +21,7 @@ My expertise extends beyond conventional boundaries—I excel in statistical ana
 
 - *❓ Ask me about  related to AI/ML.*
   
+-  *📫 How to reach me techtanwar03@gmail.com*
 
 *⚡ Fun fact: I keep DAY shift swithed on at all times*   
 
