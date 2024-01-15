@@ -1,18 +1,13 @@
-
-
 ## <h1 align="center"> Hey 👋, I'm  Sakshi Tanwar! 
-
-
  [![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-tanwar-69a241250/)  [![Gmail](https://img.shields.io/badge/Gmail-2F4F4F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techtanwar03@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
  [![Hackerrank](https://img.shields.io/badge/hackerrank-2F4F4F?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dashboard)[![Leetcode](https://img.shields.io/badge/Leetcode-0077B5?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/STanwar16/) [![Codechef](https://img.shields.io/badge/Codechef-2F4F4F?style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/techtanwar03) 
 [![Quora](https://img.shields.io/badge/Quora-0077B5?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/S2tech)  [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-2F4F4F?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22276125/sakshi-tanwar) [![Geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-0077B5?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/tanwarsakshi1717157/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
 
 
 ### Glad to see you here!  
-
 As a passionate data scientist, I thrive at the intersection of machine learning, deep learning, and Python, transforming raw data into actionable insights. With a proven track record of success, I specialize in crafting and implementing innovative, data-driven solutions that unravel complex business challenges.
 
-  
+
 My expertise extends beyond conventional boundaries—I excel in statistical analysis, predictive modeling, and data visualization. By seamlessly blending analytical prowess with a creative mindset, I bring a robust and dynamic skill set to the table. I'm not just a data scientist; I'm a problem solver who leverages the power of data to drive informed decision-making and propel businesses towards unprecedented success.
 
 ## Rapidfire
@@ -57,8 +52,7 @@ My expertise extends beyond conventional boundaries—I excel in statistical ana
 </div>  
 
 <br/>  
-  
-   ## Github Stats  
+  ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tanwar-12&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -71,9 +65,6 @@ My expertise extends beyond conventional boundaries—I excel in statistical ana
 
 <br/>  
 
-  
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Tanwar-12&&style=flat-square)  
   
