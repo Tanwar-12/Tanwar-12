@@ -1,177 +1,119 @@
 
-![Profile views](https://komarev.com/ghpvc/?username=Tanwar-12&style=for-the-badge&color=orange)
-[![Tanwar-12's stars](https://custom-icon-badges.demolab.com/github/stars/Tanwar-12?color=55960c&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
+
+## <h1 align="center"> Hey 👋, I'm  Sakshi Tanwar! 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;AI+Learner🛠️;Coder+💻;)](https://git.io/typing-svg)
+ [![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-t-69a241250)  [![Gmail](https://img.shields.io/badge/Gmail-2F4F4F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techtanwar03@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+ [![Hackerrank](https://img.shields.io/badge/hackerrank-2F4F4F?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dashboard)[![Leetcode](https://img.shields.io/badge/Leetcode-0077B5?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/STanwar16/) [![Codechef](https://img.shields.io/badge/Codechef-2F4F4F?style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/techtanwar03) 
+[![Quora](https://img.shields.io/badge/Quora-0077B5?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/S2tech)  [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-2F4F4F?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22276125/sakshi-tanwar) [![Geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-0077B5?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/tanwarsakshi1717157/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
 
 
+### Glad to see you here!  
 
+As a passionate data scientist, I thrive at the intersection of machine learning, deep learning, and Python, transforming raw data into actionable insights. With a proven track record of success, I specialize in crafting and implementing innovative, data-driven solutions that unravel complex business challenges.
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1><h2 align="center"> Greetings! It's great to have you here. I'm Sakshi Tanwar, an enthusiastic Data Scientist hailing from India.</h2>
-
-   <p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=900C3F&size=40&width=750&height=80&lines=Welcome!+To+MY+Profile"/>
-</p>
-         
-
-
-
-
-
-<b><h1> <img src = "https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width = 6.5%> About me:
-</h1></b>
-📖 I'm Currently Learning AI."Embrace AI, unleash innovation."<br><br>
-
-
-
-<img align="right" alt="coding" width="300" src="https://github.com/Tanwar-12/Tanwar-12/blob/main/life_balance.gif">
-
-
-🏄‍  I have always gotten a thrill,a kick, from learning new things.<br>
-
-- 👯Data whispers, AI listens.
   
-- ⚡ My perfect day would start with watching problem and end with solving problem.😅
+My expertise extends beyond conventional boundaries—I excel in statistical analysis, predictive modeling, and data visualization. By seamlessly blending analytical prowess with a creative mindset, I bring a robust and dynamic skill set to the table. I'm not just a data scientist; I'm a problem solver who leverages the power of data to drive informed decision-making and propel businesses towards unprecedented success.
 
-- Subconsciously resolves coding issues in Dreamland. Win-win! 💤👩🏽‍💻
-- Knowledge has no limits; keep pushing them.
+## Rapidfire
+
+<table><tr><td valign="top" width="50%">
+
+- *🔭 I’m currently working on EXCEL,POWERBI,AND OPENCV.*  
   
-- :smile: Happy Learning 
-"The only limit to our realization of tomorrow will be our doubts of today."<br> <br>💬 Ask me about Data Science (AI/ML).<br><br>📫 "In the binary dance of AI, the future finds its rhythm." 💃<br><br>⚡ Fun fact: Debuggers by day, problem solvers by night🌙.
 
+- *🌱 I’m currently learning AI Skills.*
 
-
-
-## 🌐  𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑊𝑖𝑡ℎ 𝑀𝑒 !<img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">
-
-[![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-t-69a241250)  [![Gmail](https://img.shields.io/badge/Gmail-DB7093?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techtanwar03@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-BC544B?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
- [![Hackerrank](https://img.shields.io/badge/hackerrank-39E09B?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dashboard)[![Leetcode](https://img.shields.io/badge/Leetcode-C8A951?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/STanwar16/) [![Codechef](https://img.shields.io/badge/Codechef-000080?style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/techtanwar03) 
-[![Quora](https://img.shields.io/badge/Quora-4D0F28?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/S2tech)  [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-BC8F8F?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22276125/sakshi-tanwar) [![Geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-2F4F4F?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/tanwarsakshi1717157/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
-[![Mediuum](https://img.shields.io/badge/Medium--4D0F28?style=for-the-badge&logo=Medium&logoColor=green)](https://medium.com/@tanwarsakshi1717157)
-
-
-
-     
-     
-   
-   
-   
-   
-    
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-
-<br>
-<hr>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwar-12&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
- 
-# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
-
-| Category        | Skills        |
-|-----------------|---------------|
-| Frameworks| <img src="https://img.shields.io/badge/Scikit-learn-000000?style=for-the-badge&logo=Scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=Pandas&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-339933?style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-0769AD?style=for-the-badge&logo=Tensorflow&logoColor=white"/> |
-| Languages       | <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Css3-007ACC?style=for-the-badge&logo=Css3&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> |
-| Styling & Frameworks |  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-319795?style=for-the-badge&logo=Bootstrap&logoColor=white" /> |
-| Database |  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
-| Services & Tools|  <a href="https://github.com/Tanwar-12"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  |
-| Competitive Coding | <a href="https://leetcode.com/STanwar16/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://auth.geeksforgeeks.org/user/tanwarsakshi1717157/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> <a href="https://www.codechef.com/users/techtanwar03"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a> <a href="https://www.hackerrank.com/dashboard"><img src="https://img.shields.io/badge/-Hackerrank-FFA116?style=for-the-badge&logo=Hackerrank&logoColor=black"/> <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/kaggle-298D46?style=for-the-badge&logo=kaggle&logoColor=white"/></a> |
-| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter Notebook-F26207?style=for-the-badge&logo=Jupyter Notebook&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=Colab&logoColor=white" />  <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />  |
-| Hosting  | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> |
-| Design Tools | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://dribbble.com/Anmol-Baranwal/"></a> |
-| Learning | <a href="https://auth.geeksforgeeks.org/user/tanwarsakshi1717157/?"><img src="https://img.shields.io/badge/Geeksforgeeks-0056D2?style=for-the-badge&logo=Geeksforgeeks&logoColor=white" /> |
+- *❓ Ask me about  related to AI/ML.*
   
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
-
-| Projects |  | Repository | Tech Stack & Tools |
-|:---------|:-------------:|:----------:|:-------------------|
-| Deep Learning |  | -  | 
-| Traffic Sign Detection  |Deep Learning| [view](https://github.com/Tanwar-12/Traffic-Sign-Detection-) |`Deep Learning` `Yolov5` `Python`|
-| Vehicles Object Detection |Deep Learning| [view](https://github.com/Tanwar-12/Vehicles-Object-Detection) |`Deep Learning` `Yolov5` `Python`| 
-| Detecting-the-type-of-skin-diseases-detection|Deep Learning| [view](https://github.com/Tanwar-12/Detecting-the-type-of-skin-diseases-detection) |`Deep Learning` `Image Classification` `Python`| 
-|Chess Pieces Detection| Deep Learning| [view](https://github.com/Tanwar-12/Chess-Pieces-Detection) |`Deep Learning` `Yolov5` `Python`|
-| Euro Coin Detection| Deep Learning | [view](https://github.com/Tanwar-12/Euro-Coin-Detection) |`Deep Learning` `Yolov5` `Python`| 
-| Emotion_Detection| Deep Learning | [view](https://github.com/Tanwar-12/Emotion_Detection-Using-Yolov5/) |`Deep Learning` `Yolov5` `Python`|  
-| Face Mask Detection|Deep Learning | [view](https://github.com/Tanwar-12/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`| 
-| Crop-Diseases-Detection| Deep Learning| [view](https://github.com/Tanwar-12/Crop-Diseases-Detection-) |`Deep Learning` `Yolov5` `Python` | 
-| Sentiment-Emotion-Analysis|NLP | [view](https://github.com/Tanwar-12/Sentiment-Emotion-Analysis-Using-NLP) |`NLP,Python`  |
-| IMDB Sentiment Analysis|NLP| [view](https://github.com/Tanwar-12/IMDB-SENTIMENT-ANALYSIS) |`NLP,Python`  |
-| Quora-Question-Pair|NLP| [view](https://github.com/Tanwar-12/Quora-Question-Pair) |`NLP,Python`  |
-|Covid-19-Image-Classification |CNN | [view](https://github.com/Tanwar-12/Covid-19-Image-Classification) |`cnn classification` `python`  | 
-| Skin -Cancer -Classification |CNN | [view](https://github.com/Tanwar-12/Skin_-Cancer-_Classification) |`Keras tensorflow,cnn classification` `Vgg16`  | 
-|Flower -Classification |CNN| [view](https://github.com/Tanwar-12/Flowers--Classification) |`tensorflow,Vgg19` `Vgg16`  | 
-| MNIST-Classification|CNN| [view](https://github.com/Tanwar-12/MNIST-Multiclass-Classification) |`Mnist`  | 
-|Beauty-Classification|CNN| [view](https://github.com/Tanwar-12/Beauty-Classification) |`Cnn Classification`  |
-| Fifa20 Clustering|Machine Learning| [view](https://github.com/Tanwar-12/Fifa20-Clustering) |`Machine Learning,Clustering,Python`  |
-|Vaccine Prediction|Machine Learning | [view](https://github.com/Tanwar-12/Vaccine-Prediction) |`Machine Learning,Python`  |
-|Blood DonationPrediction|Machine Learning | [view](https://github.com/Tanwar-12/Blood-Donation-Prediction) |`Machine Learning,Python`  |
-|Portuguese-bank-marketing|Machine Learning | [view](https://github.com/Tanwar-12/Portuguese-bank-marketing) |`Machine Learning,Python`  |
-| Automobile-Imports-Prediction |Machine Learning  | [view](https://github.com/Tanwar-12/Automobile-Imports-Prediction) |`Machine Learning,Python`  |
-| NBA-SHOT-SELECTION |Machine Learning | [view](https://github.com/Tanwar-12/NBA-SHOT-SELECTION) |`Machine Learning,Python`  |
-| Employee Performance Analysis |Machine Learning| [view](https://github.com/Tanwar-12/Employees-performance-analysis) |`Machine Learning,Python`  |
-|Doctor-Consultancy-Fees-Prediction |Machine Learning | [view](https://github.com/Tanwar-12/Doctor-Consultancy-Fees-Prediction) |`Machine Learning,Python`  |
-| Diwali-Sales-Analysis |Machine Learning| [view](https://github.com/Tanwar-12/Diwali-Sales-Analysis) |`Data Analysis,Python`  |
-| Flight-fare-prediction |Machine Learning | [view](https://github.com/Tanwar-12/Flight-fare-prediction) |`Machine Learning,Python`  |
-|Chandrayaan-3-Data-Analysis |Machine Learning | [view](https://github.com/Tanwar-12/Chandrayaan-3-Data-Analysis) |`Machine Learning,Python`  |
-| Customer-transaction-prediction |Machine Learning | [view](https://github.com/Tanwar-12/Customer-transaction-prediction) |`Machine Learning,Python`  |
-|Heart-Diseases-Prediction |Machine Learning| [view](https://github.com/Tanwar-12/Heart-Diseases-Prediction) |`Machine Learning,Python`  |
-|Customer-purchase-intent-prediction|Machine Learning | [view](https://github.com/Tanwar-12/Customer-purchase-intent-prediction) |`Machine Learning,Python`  |
-|Optimising-Agriculture-production|Machine Learning | [view](https://github.com/Tanwar-12/Optimising-Agriculture-production) |`Machine Learning,Python`  |
-| Texas-Salary-Prediction |Machine Learning | [view](https://github.com/Tanwar-12/Texas-Salary-Prediction) |`Machine Learning,Python`  |
+*⚡ Fun fact: I keep DAY shift swithed on at all times*   
 
 
 
 
 
+ ## Languages and Tools  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
+<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" /></a>  
+<a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" /></a>  
+<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
+</div>  
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tanwar-12&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tanwar-12&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanwar-12&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tanwar-12&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tanwar-12&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
----
-
-
-
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
+<br/>  
   
-   <b>❤️It doesn't matter your skill level on sites or anywhere else like this. The important thing is to be the first person somewhere else❤️</b>
-</div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
+   ## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tanwar-12&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanwar-12&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Tanwar-12&&style=flat-square)  
+  
+
+<br/>  
 
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;">
-</h3>
+<br />
 
-<br/>
+----
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
