@@ -61,10 +61,51 @@
 <!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
 | Projects |  | Repository | Tech Stack & Tools |
 |:---------|:----------:|:----------:|:-------------------|
+| Face Mask Detection | Deep Learning | [view](https://github.com/Tanwar-12/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`|
+| Emotion Detection | Deep Learning | [view](https://github.com/Tanwar-12/Emotion_Detection-Using-Yolov5) |`Deep Learning` `Yolov5` `Python`| 
+|  Traffic Sign Detction | Deep Learning | [view](https://github.com/Tanwar-12/Traffic-Sign-Detection-) |`Deep Learning` `Image Classification` `Python`| 
+| Crop Diseases Detection | Deep Learning   | [view](https://github.com/Tanwar-12/Crop-Diseases-Detection-) |`Deep Learning` `Image Classification` `Python`| 
+| Euro-Coin-Detection  | Deep Learning   | [view](https://github.com/Tanwar-12/Euro-Coin-Detection) |`Deep Learning` `Image Classification` `Python`| 
+| Indian_Sign_Language_Detection | Deep Learning   | [view](https://github.com/Tanwar-12/Indian_Sign_Language_Detection-Yolov5) |`Deep Learning` `Image Classification` `Python`|
+| Vehicles-Object-Detection | Deep Learning  | [view](https://github.com/Tanwar-12/Vehicles-Object-Detection) |`Deep Learning` `Image Classification` `Python`|
+| Chess-Pieces-Detection  | Deep Learning | [view](https://github.com/Tanwar-12/Chess-Pieces-Detection) |`Deep Learning` `Yolov5` `Python' | 
+| Malaria-detectionn | Deep Learning | [view](https://github.com/Tanwar-12/Malaria-detection-using-VGG19) |`Deep Learning` `python`  | 
+| Employee Performance Analysis | Machine Learning   | [view](https://github.com/Tanwar-12/Employees-performance-analysis) |`Machine Learning,Python`  |
+| Customer Transaction Prediction | Machine Learning  | [view](https://github.com/Tanwar-12/Customer-transaction-prediction) |`Machine Learning,Python`  |
+| Fifa20 Clustering | Machine Learning  | [view](https://github.com/Tanwar-12/Fifa20-Clustering) |`Machine Learning,Python`  |
+| Car Price Prediction | Machine Learning  | [view](https://github.com/Tanwar-12/Car-Price-Prediction) |`Machine Learning,Python`  |
+| Heart Disease Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Heart-Diseases-Prediction) |`Machine Learning,Python`  |
+| Customer-purchase-intent-prediction | Machine Learning  | [view](https://github.com/Tanwar-12/Customer-purchase-intent-prediction) |`Machine Learning,Python`  |
+ |Vaccine-Prediction  | Machine Learning | [view](https://github.com/Tanwar-12/Vaccine-Prediction) |`Machine Learning,Python`  |
+| Clustering Healthy LifestyleCity | Machine Learning   | [view]() |`Machine Learning,Python`  |
+| Blood-Donation-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Blood-Donation-Prediction) |`Machine Learning,Python`  |
+| Portuguese-bank-marketing | Machine Learning   | [view](https://github.com/Tanwar-12/Portuguese-bank-marketing) |`Machine Learning,Python`  |
+| Flight-fare-prediction  | Machine Learning   | [view](https://github.com/Tanwar-12/Flight-fare-prediction) |`Machine Learning,Python`  |
+| Automobile-Imports-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Automobile-Imports-Prediction) |`Machine Learning,Python`  |
+|  NBA-SHOT-SELECTION | Machine Learning   | [view](https://github.com/Tanwar-12/NBA-SHOT-SELECTION) |`Machine Learning,Python`  |
+| Chandrayaan-3-Data-Analysis| Machine Learning   | [view](https://github.com/Tanwar-12/Chandrayaan-3-Data-Analysis) |`Machine Learning,Python`  |
+| Doctor-Consultancy-Fees-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Doctor-Consultancy-Fees-Prediction) |`Machine Learning,Python`  |
+| Black-Friday-Sales-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Black-Friday-Sales-Prediction) |`Machine Learning,Python`  |
+|Beauty-Classification | Machine Learning   | [view](https://github.com/Tanwar-12/Beauty-Classification) |`Machine Learning,Python`  |
+| Optimising-Agriculture-production | Machine Learning   | [view](https://github.com/Tanwar-12/Optimising-Agriculture-production) |`Machine Learning,Python`  |
+| Restaurant-reviews-Sentiment-analysis | Machine Learning   | [view](https://github.com/Tanwar-12/Restaurant-reviews-Sentiment-analysis) |`Machine Learning,Python`  |
+| Facebook-performance-analysis  | Machine Learning   | [view](https://github.com/Tanwar-12/Facebook-performance-analysis) |`Machine Learning,Python`  |
+| Bike-rental-prediction  | Machine Learning   | [view](https://github.com/Tanwar-12/Bike-rental-prediction) |`Machine Learning,Python`  |
+| Healthy-Life-Style-City-2021 | Machine Learning   | [view](https://github.com/Tanwar-12/Healthy-Life-Style-City-2021) |`Machine Learning,Python`  |
+|Texas-Salary-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Texas-Salary-Prediction) |`Machine Learning,Python`  |
+|IMDB-SENTIMENT-ANALYSIS  | NLP | [view](https://github.com/Tanwar-12/IMDB-SENTIMENT-ANALYSIS) |`NLP,Python`  |
+|  Quora-Question-Pair| NLP | [view](https://github.com/Tanwar-12/Quora-Question-Pair) |`NLP,Python`  |
+| Sentiment-Emotion-Analysis | NLP | [view](https://github.com/Tanwar-12/Sentiment-Emotion-Analysis-Using-NLP) |`NLP,Python`  |
+|  Covid-19-Image-Classification | Cnn | [view](https://github.com/Tanwar-12/Covid-19-Image-Classification) |`Deep Learning` `Image Classification` `Python`| 
+| Skin_-Cancer-_Classification | Cnn | [view](https://github.com/Tanwar-12/Skin_-Cancer-_Classification) | `Image Classification` `Python`|
+| Flowers--Classification  | Cnn  | [view](https://github.com/Tanwar-12/Flowers--Classification) | `Image Classification` `Python`|
+| MNIST-Multiclass-Classification Public| Cnn  | [view](https://github.com/Tanwar-12/MNIST-Multiclass-Classification) | `Image Classification` `Python`|
+| Beauty-Classification  | Cnn  | [view](https://github.com/Tanwar-12/Beauty-Classification) | `Image Classification` `Python`|
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tanwar-12&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
