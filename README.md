@@ -73,7 +73,7 @@
 | Euro-Coin-Detection  | Deep Learning   | [view](https://github.com/Tanwar-12/Euro-Coin-Detection) |`Deep Learning` `Image Classification` `Python`| 
 | Indian_Sign_Language_Detection | Deep Learning   | [view](https://github.com/Tanwar-12/Indian_Sign_Language_Detection-Yolov5) |`Deep Learning` `Image Classification` `Python`|
 | Vehicles-Object-Detection | Deep Learning  | [view](https://github.com/Tanwar-12/Vehicles-Object-Detection) |`Deep Learning` `Image Classification` `Python`|
-| Chess-Pieces-Detection  | Deep Learning | [view](https://github.com/Tanwar-12/Chess-Pieces-Detection) |`Deep Learning` `Yolov5` `Python' | 
+| Chess-Pieces-Detection  | Deep Learning | [view](https://github.com/Tanwar-12/Chess-Pieces-Detection) |`Deep Learning` `Yolov5``Python` | 
 | Malaria-detectionn | Deep Learning | [view](https://github.com/Tanwar-12/Malaria-detection-using-VGG19) |`Deep Learning` `python`  | 
 | Employee Performance Analysis | Machine Learning   | [view](https://github.com/Tanwar-12/Employees-performance-analysis) |`Machine Learning,Python`  |
 | Customer Transaction Prediction | Machine Learning  | [view](https://github.com/Tanwar-12/Customer-transaction-prediction) |`Machine Learning,Python`  |
