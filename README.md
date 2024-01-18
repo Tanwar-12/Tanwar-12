@@ -18,7 +18,7 @@
 📝*I’m Currently Learning AI Skills*.<br><br>
 💬 *Ask me about Data Science (AI/ML)*.
 
-⚡ *Fun fact: Debuggers by Day, Coders by Night.* 🙂
+⚡ *Fun fact: Debuggers by Day, Problems Solver by Night.* 🙂
 
 
 ## 🌐  𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑊𝑖𝑡ℎ 𝑀𝑒 !<img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">
