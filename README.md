@@ -16,7 +16,6 @@
 <img align="right" alt="coding" width="300" src="https://github.com/Tanwar-12/Tanwar-12/blob/main/GIF..gif">
 
 📝*I’m Currently Learning AI Skills*.<br><br>
-
 💬 *Ask me about Data Science (AI/ML)*.
 
 ⚡ *Fun fact: Debuggers by Day, Coders by Night.* 🙂
