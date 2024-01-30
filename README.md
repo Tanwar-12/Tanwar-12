@@ -18,6 +18,8 @@
 📝*I’m Currently Learning AI Skills*.<br><br>
 💬 *Ask me about Data Science (AI/ML)*.
 
+📫 *How to reach me: https://linktr.ee/tanwar_sakshi*
+
 ⚡ *Fun fact: Debuggers by Day, Problems Solver by Night.* 🙂
 
 
