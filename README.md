@@ -20,7 +20,6 @@
 
 📫 *Reach Out: https://linktr.ee/tanwar_sakshi*
 
-*Check out my Portfolio: https://drive.google.com/file/d/1OOuAXk7gCFJAXG30pfNGe9nppLVfAjs6/view?usp=drive_link*
 
 ⚡ *Fun fact: Debuggers by Day, Problems Solver by Night.* 🙂
 
