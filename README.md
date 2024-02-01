@@ -11,7 +11,7 @@
          
 
 
-# 💫 About Me: 
+# 🙋🏻 About Me: 
 
 <img align="right" alt="coding" width="200" src="https://github.com/Tanwar-12/Tanwar-12/blob/main/Gif.gif">
 
