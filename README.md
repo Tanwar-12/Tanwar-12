@@ -89,30 +89,29 @@
 | 14.Heart Disease Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Heart-Diseases-Prediction) |`Machine Learning,Python`  |
 | 15.Customer-purchase-intent-prediction | Machine Learning  | [view](https://github.com/Tanwar-12/Customer-purchase-intent-prediction) |`Machine Learning,Python`  |
 | 16.Vaccine-Prediction  | Machine Learning | [view](https://github.com/Tanwar-12/Vaccine-Prediction) |`Machine Learning,Python`  |
-| 17.Clustering Healthy LifestyleCity | Machine Learning   | [view]() |`Machine Learning,Python`  |
-| 18.Blood-Donation-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Blood-Donation-Prediction) |`Machine Learning,Python`  |
-| 19.Portuguese-bank-marketing | Machine Learning   | [view](https://github.com/Tanwar-12/Portuguese-bank-marketing) |`Machine Learning,Python`  |
-| 20.Flight-fare-prediction  | Machine Learning   | [view](https://github.com/Tanwar-12/Flight-fare-prediction) |`Machine Learning,Python`  |
-| 21.Automobile-Imports-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Automobile-Imports-Prediction) |`Machine Learning,Python`  |
-| 22. NBA-SHOT-SELECTION | Machine Learning   | [view](https://github.com/Tanwar-12/NBA-SHOT-SELECTION) |`Machine Learning,Python`  |
-| 23.Chandrayaan-3-Data-Analysis| Machine Learning   | [view](https://github.com/Tanwar-12/Chandrayaan-3-Data-Analysis) |`Machine Learning,Python`  |
-| 24.Doctor-Consultancy-Fees-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Doctor-Consultancy-Fees-Prediction) |`Machine Learning,Python`  |
-| 25.Black-Friday-Sales-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Black-Friday-Sales-Prediction) |`Machine Learning,Python`  |
-| 26.Beauty-Classification | Machine Learning   | [view](https://github.com/Tanwar-12/Beauty-Classification) |`Machine Learning,Python`  |
-| 27.Optimising-Agriculture-production | Machine Learning   | [view](https://github.com/Tanwar-12/Optimising-Agriculture-production) |`Machine Learning,Python`  |
-| 28.Restaurant-reviews-Sentiment-analysis | Machine Learning   | [view](https://github.com/Tanwar-12/Restaurant-reviews-Sentiment-analysis) |`Machine Learning,Python`  |
-| 29.Facebook-performance-analysis  | Machine Learning   | [view](https://github.com/Tanwar-12/Facebook-performance-analysis) |`Machine Learning,Python`  |
-| 30.Bike-rental-prediction  | Machine Learning   | [view](https://github.com/Tanwar-12/Bike-rental-prediction) |`Machine Learning,Python`  |
-| 31.Healthy-Life-Style-City-2021 | Machine Learning   | [view](https://github.com/Tanwar-12/Healthy-Life-Style-City-2021) |`Machine Learning,Python`  |
-| 32.Texas-Salary-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Texas-Salary-Prediction) |`Machine Learning,Python`  |
-| 33.IMDB-SENTIMENT-ANALYSIS  | NLP | [view](https://github.com/Tanwar-12/IMDB-SENTIMENT-ANALYSIS) |`NLP,Python`  |
-| 34. Quora-Question-Pair| NLP | [view](https://github.com/Tanwar-12/Quora-Question-Pair) |`NLP,Python`  |
-| 35.Sentiment-Emotion-Analysis | NLP | [view](https://github.com/Tanwar-12/Sentiment-Emotion-Analysis-Using-NLP) |`NLP,Python`  |
-| 36. Covid-19-Image-Classification | Cnn | [view](https://github.com/Tanwar-12/Covid-19-Image-Classification) |`Deep Learning` `Image Classification` `Python`| 
-| 37.Skin_-Cancer-_Classification | Cnn | [view](https://github.com/Tanwar-12/Skin_-Cancer-_Classification) | `Image Classification` `Python`|
-| 38.Flowers--Classification  | Cnn  | [view](https://github.com/Tanwar-12/Flowers--Classification) | `Image Classification` `Python`|
-| 39.MNIST-Multiclass-Classification Public| Cnn  | [view](https://github.com/Tanwar-12/MNIST-Multiclass-Classification) | `Image Classification` `Python`|
-| 40.Beauty-Classification  | Cnn  | [view](https://github.com/Tanwar-12/Beauty-Classification) | `Image Classification` `Python`|
+| 17.Blood-Donation-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Blood-Donation-Prediction) |`Machine Learning,Python`  |
+| 18.Portuguese-bank-marketing | Machine Learning   | [view](https://github.com/Tanwar-12/Portuguese-bank-marketing) |`Machine Learning,Python`  |
+| 19.Flight-fare-prediction  | Machine Learning   | [view](https://github.com/Tanwar-12/Flight-fare-prediction) |`Machine Learning,Python`  |
+| 20.Automobile-Imports-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Automobile-Imports-Prediction) |`Machine Learning,Python`  |
+| 21. NBA-SHOT-SELECTION | Machine Learning   | [view](https://github.com/Tanwar-12/NBA-SHOT-SELECTION) |`Machine Learning,Python`  |
+| 22.Chandrayaan-3-Data-Analysis| Machine Learning   | [view](https://github.com/Tanwar-12/Chandrayaan-3-Data-Analysis) |`Machine Learning,Python`  |
+| 23.Doctor-Consultancy-Fees-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Doctor-Consultancy-Fees-Prediction) |`Machine Learning,Python`  |
+| 24.Black-Friday-Sales-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Black-Friday-Sales-Prediction) |`Machine Learning,Python`  |
+| 25.Beauty-Classification | Machine Learning   | [view](https://github.com/Tanwar-12/Beauty-Classification) |`Machine Learning,Python`  |
+| 26.Optimising-Agriculture-production | Machine Learning   | [view](https://github.com/Tanwar-12/Optimising-Agriculture-production) |`Machine Learning,Python`  |
+| 27.Restaurant-reviews-Sentiment-analysis | Machine Learning   | [view](https://github.com/Tanwar-12/Restaurant-reviews-Sentiment-analysis) |`Machine Learning,Python`  |
+| 28.Facebook-performance-analysis  | Machine Learning   | [view](https://github.com/Tanwar-12/Facebook-performance-analysis) |`Machine Learning,Python`  |
+| 29.Bike-rental-prediction  | Machine Learning   | [view](https://github.com/Tanwar-12/Bike-rental-prediction) |`Machine Learning,Python`  |
+| 30.Healthy-Life-Style-City-2021 | Machine Learning   | [view](https://github.com/Tanwar-12/Healthy-Life-Style-City-2021) |`Machine Learning,Python`  |
+| 31.Texas-Salary-Prediction | Machine Learning   | [view](https://github.com/Tanwar-12/Texas-Salary-Prediction) |`Machine Learning,Python`  |
+| 32.IMDB-SENTIMENT-ANALYSIS  | NLP | [view](https://github.com/Tanwar-12/IMDB-SENTIMENT-ANALYSIS) |`NLP,Python`  |
+| 33. Quora-Question-Pair| NLP | [view](https://github.com/Tanwar-12/Quora-Question-Pair) |`NLP,Python`  |
+| 34.Sentiment-Emotion-Analysis | NLP | [view](https://github.com/Tanwar-12/Sentiment-Emotion-Analysis-Using-NLP) |`NLP,Python`  |
+| 35. Covid-19-Image-Classification | Cnn | [view](https://github.com/Tanwar-12/Covid-19-Image-Classification) |`Deep Learning` `Image Classification` `Python`| 
+| 36.Skin_-Cancer-_Classification | Cnn | [view](https://github.com/Tanwar-12/Skin_-Cancer-_Classification) | `Image Classification` `Python`|
+| 37.Flowers--Classification  | Cnn  | [view](https://github.com/Tanwar-12/Flowers--Classification) | `Image Classification` `Python`|
+| 38.MNIST-Multiclass-Classification Public| Cnn  | [view](https://github.com/Tanwar-12/MNIST-Multiclass-Classification) | `Image Classification` `Python`|
+| 39.Beauty-Classification  | Cnn  | [view](https://github.com/Tanwar-12/Beauty-Classification) | `Image Classification` `Python`|
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tanwar-12&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
