@@ -16,7 +16,7 @@
 <img align="right" alt="coding" width="200" src="https://github.com/Tanwar-12/Tanwar-12/blob/main/Gif.gif">
 
 📝*I’m Currently Learning AI Skills*.<br><br>
-💬 *Ask me about Data Science (AI/ML)*.
+❓ *Ask me about Data Science (AI/ML)*.
 
 📫 *Reach Out: https://linktr.ee/tanwar_sakshi*
 
