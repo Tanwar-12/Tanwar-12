@@ -12,7 +12,7 @@
          
 
 
-# 🙋🏻𝙰𝚋𝚘𝚞𝚝 𝙼𝚎:: 
+# 🙋🏻𝙰𝚋𝚘𝚞𝚝 𝙼𝚎:
 
 <img align="right" alt="coding" width="200" src="https://github.com/Tanwar-12/Tanwar-12/blob/main/Gif.gif">
 
