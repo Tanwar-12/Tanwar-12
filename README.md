@@ -59,9 +59,7 @@
 | IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter Notebook-20232A?style=for-the-badge&logo=Jupyter Notebook&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-0078D4?style=for-the-badge&logo=Colab&logoColor=white" />  <img src="https://img.shields.io/badge/Google_chrome-20232A?style=for-the-badge&logo=Google-chrome&logoColor=white" />  |
 | Hosting  | <img src="https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-0078D4?style=for-the-badge&logo=heroku&logoColor=white"/> |
 | Design Tools | <img src="https://img.shields.io/badge/Adobe%20XD-20232A?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-0056D2?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://dribbble.com/Anmol-Baranwal/"></a> |
-| Learning | <a href="https://auth.geeksforgeeks.org/user/tanwarsakshi1717157/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src="https://img.shields.io/badge/Geeksforgeeks-0056D2?style=for-the-badge&logo=Geeksforgeeks&logoColor=white" /> |
-  
-
+| Learning |  <img src="https://img.shields.io/badge/Codecademy-20232A?style=for-the-badge&logo=codecademy&logoColor=white" /> <img src="https://img.shields.io/badge/Geeksforgeeks-0056D2?style=for-the-badge&logo=Geeksforgeeks&logoColor=white" /> <img src="https://img.shields.io/badge/coding%20ninjas-20232A?style=for-the-badge&logo=codingninjas&logoColor=white?"/><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/><img src="https://img.shields.io/badge/Datacamp-20232A?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/>
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
