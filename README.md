@@ -135,8 +135,8 @@
 </div>
 <div align="center">
 <p>Write something nice in my guest book:</p>
-<a href="https://github.com/Tanwar-12/Tanwar-12/issues"><img src="![guestbook](https://github.com/Tanwar-12/Tanwar-12/blob/main/guestbook.gif)
-" alt="Guest book" align="center"></a>
+<a href="https://github.com/fnky/fnky/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
