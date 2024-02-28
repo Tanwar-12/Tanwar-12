@@ -110,6 +110,7 @@
 | Flowers--Classification  | Cnn  | [view](https://github.com/Tanwar-12/Flowers--Classification) | `Image Classification` `Python`|
 | MNIST-Multiclass-Classification Public| Cnn  | [view](https://github.com/Tanwar-12/MNIST-Multiclass-Classification) | `Image Classification` `Python`|
 | Beauty-Classification  | Cnn  | [view](https://github.com/Tanwar-12/Beauty-Classification) | `Image Classification` `Python`|
+| QR Code & Bar Code Detect | Opencv | [view](https://github.com/Tanwar-12/Detecting-the-QR-Code-Bar-Code-Using-Opencv) | `Opencv` `Python`|
 
 # 📊𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜:
 ![](https://github-readme-stats.vercel.app/api?username=Tanwar-12&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
