@@ -17,9 +17,11 @@
 <img align="right" alt="coding" width="200" src="https://github.com/Tanwar-12/Tanwar-12/blob/main/Gif.gif">
 
 📝*I’m Currently Learning AI Skills*.<br><br>
-❓ *Ask me about Data Science (AI/ML)*.
+❓ *Ask me about Data Science (AI/ML) I am happy to help 😄*.
 
-📫 *Reach Out: https://linktr.ee/tanwar_sakshi*
+📫 *Reach Out:  [Linktree](https://linktr.ee/tanwar_sakshi)*
+
+🎯 *Portfolio website:  [Portfolio](https://tanwar-12.github.io/Quantmindforge.github.io/)*
 
 
 
