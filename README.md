@@ -3,10 +3,10 @@
 [![Tanwar-12's stars](https://custom-icon-badges.demolab.com/github/stars/Tanwar-12?color=DAF7A6&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
 
 
-<h1 align="center">𝙷𝚎𝚕𝚕𝚘,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">𝑯𝒆𝒍𝒍𝒐, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45"/>𝙸'𝚖 𝚂𝚊𝚔𝚜𝚑𝚒 𝚃𝚊𝚗𝚠𝚊𝚛
+         width="45"/> 𝑰'𝒎 𝑺𝒂𝒌𝒔𝒉𝒊 𝑻𝒂𝒏𝒘𝒂𝒓 
 
 
          
