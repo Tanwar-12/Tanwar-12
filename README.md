@@ -12,7 +12,7 @@
          
 
 
-# 🙋🏻𝙰𝚋𝚘𝚞𝚝 𝙼𝚎:
+# 🙋🏻𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 
 <img align="right" alt="coding" width="200" src="https://github.com/Tanwar-12/Tanwar-12/blob/main/Gif.gif">
 
@@ -31,7 +31,7 @@
 ⚡ *Fun fact: Debuggers by Day, Problems Solver by Night.* 🙂
 
 
-## 🌐 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 !<img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">
+## 🌐 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝑴𝒆 !<img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">
 
 [![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%F0%9D%9A%82%F0%9D%9A%8A%F0%9D%9A%94%F0%9D%9A%9C%F0%9D%9A%91%F0%9D%9A%92-%F0%9D%9A%83%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%A0%F0%9D%9A%8A%F0%9D%9A%9B-69a241250/) [![Gmail](https://img.shields.io/badge/Gmail-2F4F4F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techtanwar03@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sakshitanwar1)
  [![Hackerrank](https://img.shields.io/badge/hackerrank-2F4F4F?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dashboard)[![Leetcode](https://img.shields.io/badge/Leetcode-0077B5?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/STanwar16/) [![Codechef](https://img.shields.io/badge/Codechef-2F4F4F?style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/techtanwar03) 
@@ -49,7 +49,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwar-12&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 
-# 𝚂𝚔𝚒𝚕𝚕𝚜 <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+# 𝑺𝒌𝒊𝒍𝒍𝒔 <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 | 𝙲𝚊𝚝𝚎𝚐𝚘𝚛𝚢       | 𝚂𝚔𝚒𝚕𝚕𝚜        |
 |-----------------|---------------|
@@ -69,7 +69,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-# 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+# 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
 | Projects |  | Repository | Tech Stack & Tools |
 |:---------|:----------:|:----------:|:-------------------|
@@ -114,19 +114,19 @@
 | Beauty-Classification  | Cnn  | [view](https://github.com/Tanwar-12/Beauty-Classification) | `Image Classification` `Python`|
 | QR Code & Bar Code Detect | Opencv | [view](https://github.com/Tanwar-12/Detecting-the-QR-Code-Bar-Code-Using-Opencv) | `Opencv` `Python`|
 
-# 📊𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜:
+# 📊𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔:
 ![](https://github-readme-stats.vercel.app/api?username=Tanwar-12&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tanwar-12&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanwar-12&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 🏆𝙶𝚒𝚝𝙷𝚞𝚋 𝚃𝚛𝚘𝚙𝚑𝚒𝚎𝚜
+## 🏆𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔:
 ![](https://github-profile-trophy.vercel.app/?username=Tanwar-12&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ 𝚁𝚊𝚗𝚍𝚘𝚖 𝙳𝚎𝚟 𝚀𝚞𝚘𝚝𝚎
+### ✍️ 𝑹𝒂𝒏𝒅𝒐𝒎 𝑫𝒆𝒗 𝑸𝒖𝒐𝒕𝒆:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 𝚃𝚘𝚙 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎𝚍 𝚁𝚎𝚙𝚘
+### 🔝 𝑻𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆𝒅 𝑹𝒆𝒑𝒐
 ![](https://github-contributor-stats.vercel.app/api?username=Tanwar-12&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
