@@ -14,7 +14,7 @@
 
 # 🙋🏻𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 
-<img align="right" alt="coding" width="300" 
+<img align="right" alt="coding" width="250" 
 src="https://github.com/Tanwar-12/Tanwar-12/blob/main/shot09.gif">
 
 📝*I’m Currently Learning AI Skills*.<br><br>
