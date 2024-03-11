@@ -1,8 +1,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Tanwar-12&style=for-the-badge&color=orange)
-[![Tanwar-12's stars](https://img.shields.io/github/stars/Tanwar-12?color=DAF7A6&style=for-the-badge&logo=https://github.com/Tanwar-12's/repo/raw/main/path/to/your/image.png)](https://github.com/Tanwar-12's?tab=repositories&sort=stargazers)
-
-
+[![Tanwar-12 stars](https://img.shields.io/github/stars/Tanwar-12?color=DAF7A6&style=for-the-badge&logo=https://github.com/Tanwar-12/repo/raw/main/path/to/your/image.png)](https://github.com/Tanwar-12?tab=repositories&sort=stargazers)
 
 
 
