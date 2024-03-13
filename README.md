@@ -130,3 +130,5 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/shot09.gif">
 
 ---
 ### 𝑮𝒆𝒏𝒆𝒓𝒂𝒕𝒆 𝑹𝒂𝒏𝒅𝒐𝒎 𝑱𝒐𝒌𝒆𝒔 
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
