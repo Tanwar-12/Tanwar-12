@@ -120,10 +120,10 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/shot09.gif">
 
 
 ## 🏆𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔:
-![](https://github-profile-trophy.vercel.app/?username=Tanwar-12&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Tanwar-12&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ 𝑹𝒂𝒏𝒅𝒐𝒎 𝑫𝒆𝒗 𝑸𝒖𝒐𝒕𝒆:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 𝑻𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆𝒅 𝑹𝒆𝒑𝒐
 ![](https://github-contributor-stats.vercel.app/api?username=Tanwar-12&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
