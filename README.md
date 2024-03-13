@@ -3,16 +3,11 @@
 [![Tanwar-12 stars](https://img.shields.io/github/stars/Tanwar-12?color=DAF7A6&style=for-the-badge&logo=https://github.com/Tanwar-12/repo/raw/main/path/to/your/image.png)](https://github.com/Tanwar-12?tab=repositories&sort=stargazers)
 ![Followers](https://img.shields.io/github/followers/Tanwar-12?style=for-the-badge&color=orange)
 
-
-
-
 <h1 align="center">𝑯𝒆𝒍𝒍𝒐, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45"/> 𝑰'𝒎 𝑺𝒂𝒌𝒔𝒉𝒊 𝑻𝒂𝒏𝒘𝒂𝒓 
 
-
-         
 
 
 # 🙋🏻𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
@@ -134,7 +129,8 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/shot09.gif">
 ![](https://github-contributor-stats.vercel.app/api?username=Tanwar-12&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-
+### 📊 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 𝒗𝒊𝒆𝒘 𝒄𝒐𝒖𝒏𝒕
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
