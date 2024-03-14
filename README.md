@@ -129,6 +129,9 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/shot09.gif">
 ![](https://github-contributor-stats.vercel.app/api?username=Tanwar-12&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
+
+### Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/STanwar16?theme=dark&font=ABeeZee)
 ### 🤡 𝑮𝒆𝒏𝒆𝒓𝒂𝒕𝒆 𝑹𝒂𝒏𝒅𝒐𝒎 𝑱𝒐𝒌𝒆𝒔 
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
