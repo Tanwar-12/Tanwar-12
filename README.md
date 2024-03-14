@@ -73,6 +73,7 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/shot09.gif">
 | Projects |  | Repository | Tech Stack & Tools |
 |:---------|:----------:|:----------:|:-------------------|
 | Face Mask Detection | Deep Learning | [view](https://github.com/Tanwar-12/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`|
+| Pot Hole Detection | Deep Learning | [view](https://github.com/Tanwar-12/POT-HOLE-DETECTION-YLOLOV5) |`Deep Learning` `Yolov5` `Python`|
 | Emotion Detection | Deep Learning | [view](https://github.com/Tanwar-12/Emotion_Detection-Using-Yolov5) |`Deep Learning` `Yolov5` `Python`| 
 | Traffic Sign Detction | Deep Learning | [view](https://github.com/Tanwar-12/Traffic-Sign-Detection-) |`Deep Learning` `Yolov5``Image Classification` `Python`| 
 | Crop Diseases Detection | Deep Learning   | [view](https://github.com/Tanwar-12/Crop-Diseases-Detection-) |`Deep Learning` `Image Classification` `Python`| 
