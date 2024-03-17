@@ -18,7 +18,7 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/shot09.gif">
 📝*I’m Currently Learning AI Skills*.<br><br>
 ❓ *Ask me about Data Science (AI/ML) I am happy to help 😄*.
 
-📫 *Reach Out:  [Portfolio](https://github.com/Tanwar-12/Sakshitanwarportfolio.github.io)*
+📫 *Reach Out:[Portfolio ](https://tanwar-12.github.io/Sakshitanwarportfolio.github.io/)*
 
 
 
