@@ -140,5 +140,6 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/shot09.gif">
 ### 𝑳𝒆𝒆𝒕𝒄𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔
 ![LeetCode Stats](https://leetcard.jacoblin.cool/STanwar16?theme=dark&font=Sura)
 
-### 𝑴𝒆𝒅𝒊𝒖𝒎 𝑨𝒓𝒕𝒊𝒄𝒍𝒆𝒔 
+### 𝑴𝒆𝒅𝒊𝒖𝒎 𝑨𝒓𝒕𝒊𝒄𝒍𝒆𝒔
+1.[Topic-ML Introduction ](https://medium.com/@tanwarsakshi1717157/machine-learning-introduction-b0cb5ac3a66a)
 
