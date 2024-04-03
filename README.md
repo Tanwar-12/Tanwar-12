@@ -9,7 +9,9 @@
          height="45"
          width="45"/> 𝑰'𝒎 𝑺𝒂𝒌𝒔𝒉𝒊 𝑻𝒂𝒏𝒘𝒂𝒓 
 
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bookman+Old+Style&color=%23926B9A&size=25&center=true&width=700&lines=Computer+Science+Engineer;Web+Designer;Data+Science+Enthusiast"></a>
+</p>
 
 # 🙋🏻𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 
