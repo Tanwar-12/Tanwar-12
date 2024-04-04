@@ -4,10 +4,10 @@
 ![Followers](https://img.shields.io/github/followers/tanwar-12?style=for-the-badge&color=orange)
 [![Portfolio](https://img.shields.io/badge/Check%20Portfolio--DAF7A6?style=for-the-badge&logo=github)](https://tanwar-12.github.io/Sakshitanwarportfolio.github.io/)
 
-<h1 align="center">𝑯𝒆𝒍𝒍𝒐, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45"/> 𝑰'𝒎 𝑺𝒂𝒌𝒔𝒉𝒊 𝑻𝒂𝒏𝒘𝒂𝒓 
+         width="45"/>𝐈'𝐦 𝐒𝐚𝐤𝐬𝐡𝐢 𝐓𝐚𝐧𝐰𝐚𝐫
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bookman+Old+Style&color=%23926B9A&size=25&center=true&width=400&lines=Data+Scientist;Computer+Science+Engineer;Web+Designer"></a>
