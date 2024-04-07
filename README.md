@@ -25,7 +25,7 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/shot09.gif">
 
 👯 *I’m collaborator in pyspark, opencv and looking for more collaboration*.
 
-📝 I regularly write articles on: https://medium.com/@tanwarsakshi1717157
+📝 I  write articles on: https://medium.com/@tanwarsakshi1717157
 
 📫 *Reach Out: [My Portfolio ](https://tanwar-12.github.io/Sakshitanwarportfolio.github.io/)*
 
