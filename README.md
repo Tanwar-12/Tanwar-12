@@ -10,15 +10,13 @@
          width="45"/>𝐈'𝐦 𝐒𝐚𝐤𝐬𝐡𝐢 𝐓𝐚𝐧𝐰𝐚𝐫
 
        
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bookman+Old+Style&color=%23926B9A&size=25&center=true&width=400&lines=Data+Scientist;Computer+Science+Engineer;Web+Designer"></a>
-</p>
+
 
 # 🙋🏻𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 
 
 <img align="right" alt="coding" width="250" 
-src="https://github.com/Tanwar-12/Tanwar-12/blob/main/shot09.gif">
+src="https://github.com/Tanwar-12/Tanwar-12/blob/main/Githubgif.gif">
 
 📝*I’m Currently Learning AI Skills*.<br><br>
 ❓ *Ask me about Data Science (AI/ML)*.
