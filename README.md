@@ -21,9 +21,8 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/Githubgif.gif">
 📝*I’m Currently Learning AI Skills*.<br><br>
 ❓ *Ask me about Data Science (AI/ML)*.
 
-👯 *I’m collaborator in pyspark, opencv and looking for more collaboration*.
+👯 *I’m collaborator in Big data, opencv and looking for more collaboration*.
 
-📝 I  write articles on: https://medium.com/@tanwarsakshi1717157
 
 📫 *Reach Out: [My Portfolio ](https://tanwar-12.github.io/Sakshitanwarportfolio.github.io/)*
 
