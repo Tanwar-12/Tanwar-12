@@ -16,7 +16,7 @@
 
 
 <img align="right" alt="coding" width="250" 
-src="https://github.com/Tanwar-12/Tanwar-12/blob/main/Githubgif.gif">
+src="https://github.com/Tanwar-12/Tanwar-12/blob/main/GihubN.gif">
 
 📝*I’m Currently Learning AI Skills*.<br><br>
 ❓ *Ask me about Data Science (AI/ML)*.
