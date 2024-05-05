@@ -23,7 +23,7 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/Gif.gif">
 
 👯 *I’m collaborator in Big data, opencv and looking for more collaboration*.
 
-📝*View My Blog:* https://analyticsmindst.blogspot.com/
+
 
 📫 *Reach Out:* [My Portfolio ](https://tanwar-12.github.io/Sakshitanwarportfolio.github.io/)
 
