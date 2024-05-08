@@ -23,6 +23,9 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/Gif.gif">
 
 👯 *I’m collaborator in Big data, opencv and looking for more collaboration*.
 
+✍️ *In my free time, I pursue Website Designing  and Blog Writing as hobbies/side hustles.*
+
+✉️ *You can shoot me an email at techtanwar03@gmail.com! I'll try to respond as soon as I can.*
 
 
 📫 *Reach Out:* [My Portfolio ](https://tanwar-12.github.io/Sakshitanwarportfolio.github.io/)
