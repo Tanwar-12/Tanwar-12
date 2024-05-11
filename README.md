@@ -1,8 +1,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Tanwar-12&style=for-the-badge&color=orange )
-[![Tanwar-12 stars](https://img.shields.io/github/stars/Tanwar-12?color=2F4F4F&style=for-the-badge&logo=https://github.com/Tanwar-12/repo/raw/main/path/to/your/image.png)](https://github.com/Tanwar-12?tab=repositories&sort=stargazers)
+[![Tanwar-12 stars](https://img.shields.io/github/stars/Tanwar-12?color=DAF7A6&style=for-the-badge&logo=https://github.com/Tanwar-12/repo/raw/main/path/to/your/image.png)](https://github.com/Tanwar-12?tab=repositories&sort=stargazers)
 ![Followers](https://img.shields.io/github/followers/tanwar-12?style=for-the-badge&color=orange)
-[![Portfolio](https://img.shields.io/badge/Check%20Portfolio--2F4F4F?style=for-the-badge&logo=github)](https://tanwar-12.github.io/Sakshitanwarportfolio.github.io/)
+[![Portfolio](https://img.shields.io/badge/Check%20Portfolio--DAF7A6?style=for-the-badge&logo=github)](https://tanwar-12.github.io/Sakshitanwarportfolio.github.io/)
 
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
