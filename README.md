@@ -1,4 +1,4 @@
-![GitHubWidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Tanwar-12&data=followers,repositories,stars,commits&theme=nautilus)
+![GitHubWidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Tanwar-12&data=followers,repositories,stars,commits&theme=viridescent)
 
 
 
