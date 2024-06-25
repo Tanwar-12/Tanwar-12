@@ -24,7 +24,7 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/shot09.gif">
 📝*I’m Currently Learning AI Skills*.<br><br>
 ❓ *Ask me about Data Science (AI/ML)*.
 
-👯 *I’m collaborator in Big data, opencv and looking for more collaboration*.
+👯 *Presently immersed in upskilling myself in the exhilarating world of data science!*.
 
 ✍️ *In my free time, I pursue Website Designing  and Blog Writing as hobbies/side hustles.*
 
