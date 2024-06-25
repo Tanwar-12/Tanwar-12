@@ -21,10 +21,11 @@
 <img align="right" alt="coding" width="300" 
 src="https://github.com/Tanwar-12/Tanwar-12/blob/main/shot09.gif">
 
-📝*I’m Currently Learning AI Skills*.<br><br>
+📝*Presently immersed in upskilling myself in the exhilarating world of data science!*.
+
 ❓ *Ask me about Data Science (AI/ML)*.
 
-👯 *Presently immersed in upskilling myself in the exhilarating world of data science!*.
+
 
 ✍️ *In my free time, I pursue Website Designing  and Blog Writing as hobbies/side hustles.*
 
