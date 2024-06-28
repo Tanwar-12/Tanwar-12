@@ -20,8 +20,8 @@
 
 *Now, on the lookout for exciting opportunities to sprinkle innovation into the dynamic world of data science. Ready to turn data into insights, challenges into victories, and every project into a masterpiece!.*
 
-<img align="right" alt="coding" width="300" 
-src="https://github.com/Tanwar-12/Tanwar-12/blob/main/shot09.gif">
+<img align="right" alt="coding" width="250" 
+src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 
 📝*Presently immersed in upskilling myself in the exhilarating world of data science!*.
 
