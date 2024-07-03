@@ -89,7 +89,7 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 
 # 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-| Projects |  | Repository | Tech Stack & Tools |
+| 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 |  |𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 | 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐬 s |
 |:---------|:----------:|:----------:|:-------------------|
 | Face Mask Detection | Deep Learning | [view](https://github.com/Tanwar-12/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`|
 | Pot Hole Detection | Deep Learning | [view](https://github.com/Tanwar-12/POT-HOLE-DETECTION-YLOLOV5) |`Deep Learning` `Yolov5` `Python`|
