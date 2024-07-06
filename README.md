@@ -6,8 +6,7 @@
 
 
 
-   ![Banner](https://github.com/Tanwar-12/Tanwar-12/blob/main/Github%20Banner1.png)
-    
+  
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
