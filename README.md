@@ -3,7 +3,7 @@
 ![Followers](https://img.shields.io/github/followers/Tanwar-12?style=for-the-badge&color=orange)
 
 
-
+ ![Banner](https://github.com/Tanwar-12/Tanwar-12/blob/main/Banner%20ST%20.png)
 
 
   
