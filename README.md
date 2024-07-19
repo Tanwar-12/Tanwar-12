@@ -15,7 +15,7 @@
 
 # 🙋🏻𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 
-*A data scientist with a background in Computer Science eEgineering. I hold a Bachelor's degree in Computer Science Engineering (B.Tech CSE) and have completed a 6 months course of web designing.*
+*A data scientist with a background in Computer Science Engineering. I hold a Bachelor's degree in Computer Science Engineering (B.Tech CSE) and have completed a 6 months course of web designing.*
 
 
 
