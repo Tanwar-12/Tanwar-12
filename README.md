@@ -12,7 +12,7 @@
          width="45"/>𝐈'𝐦 𝐒𝐚𝐤𝐬𝐡𝐢 𝐓𝐚𝐧𝐰𝐚𝐫
          
 
-# 🙋🏻𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
+## 🙋🏻𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 
 *A data scientist with a background in Computer Science Engineering. I hold a Bachelor's degree in Computer Science Engineering (B.Tech CSE) and have completed a 6 months course of web designing.*
 
@@ -27,23 +27,12 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 
 ❓ *Ask me about Data Science (AI/ML)*.
 
-
-
 ✍️ *In my free time, I pursue Website Designing  and Blog Writing as hobbies/side hustles.*
 
 ✉️ *You can shoot me an email at techtanwar03@gmail.com! I'll try to respond as soon as I can.*
 
 
 📫 *Reach Out:* [My Portfolio ](https://tanwar-12.github.io/Sakshitanwarportfolio.github.io/)
-
-
-
-
-
-
-
-
-
 
 
 ⚡ *Fun fact: Debuggers by Day, Problems Solver by Night.* 🙂
@@ -63,11 +52,11 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 <br>
 <hr>
 
-### 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡
+## 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwar-12&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 
-## 𝑺𝒌𝒊𝒍𝒍𝒔
+## 𝑺𝒌𝒊𝒍𝒍𝒔:
 | 𝙲𝚊𝚝𝚎𝚐𝚘𝚛𝚢       | 𝚂𝚔𝚒𝚕𝚕𝚜        |
 |-----------------|---------------|
 | 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬| <img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=Pandas&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Numpy-0077B5?style=for-the-badge&logo=Numpy&logoColor=white"/><img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=Pandas&logoColor=61DAFB"/>  <img src="https://img.shields.io/badge/Scikit-learn-0077B5?style=for-the-badge&logo=Scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=Keras&logoColor=white"/><img src="https://img.shields.io/badge/Seaborn-0077B5?style=for-the-badge&logo=Seaborn&logoColor=61DAFB"/><img src="https://img.shields.io/badge/Regex-20232A?style=for-the-badge&logo=Regex&logoColor=white"/><img src="https://img.shields.io/badge/Tensorflow-0769AD?style=for-the-badge&logo=Tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/Opencv-20232A?style=for-the-badge&logo=Opencv&logoColor=white"/>
@@ -87,8 +76,8 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-# 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
-| 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 |  |𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 | 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐬 s |
+## 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔:
+| 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 |  |𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 | 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐬  |
 |:---------|:----------:|:----------:|:-------------------|
 | Face Mask Detection | Deep Learning | [view](https://github.com/Tanwar-12/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`|
 | Pot Hole Detection | Deep Learning | [view](https://github.com/Tanwar-12/POT-HOLE-DETECTION-YLOLOV5) |`Deep Learning` `Yolov5` `Python`|
@@ -132,7 +121,7 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 | Beauty-Classification  | Cnn  | [view](https://github.com/Tanwar-12/Beauty-Classification) | `Image Classification` `Python`|
 | QR Code & Bar Code Detect | Opencv | [view](https://github.com/Tanwar-12/Detecting-the-QR-Code-Bar-Code-Using-Opencv) | `Opencv` `Python`|
 
-# 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔:
+## 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔:
  <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanwar-12&theme=gruvbox" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanwar-12&theme=gruvbox"  />
@@ -144,10 +133,10 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 ## 🏆𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔:
 ![](https://github-profile-trophy.vercel.app/?username=Tanwar-12&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ 𝑹𝒂𝒏𝒅𝒐𝒎 𝑫𝒆𝒗 𝑸𝒖𝒐𝒕𝒆:
+## ✍️ 𝑹𝒂𝒏𝒅𝒐𝒎 𝑫𝒆𝒗 𝑸𝒖𝒐𝒕𝒆:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 𝑻𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆𝒅 𝑹𝒆𝒑𝒐
+## 🔝 𝑻𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆𝒅 𝑹𝒆𝒑𝒐:
 ![](https://github-contributor-stats.vercel.app/api?username=Tanwar-12&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
