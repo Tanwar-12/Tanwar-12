@@ -63,10 +63,11 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 <br>
 <hr>
 
+### 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwar-12&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 
-# 𝑺𝒌𝒊𝒍𝒍𝒔
+## 𝑺𝒌𝒊𝒍𝒍𝒔
 | 𝙲𝚊𝚝𝚎𝚐𝚘𝚛𝚢       | 𝚂𝚔𝚒𝚕𝚕𝚜        |
 |-----------------|---------------|
 | 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬| <img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=Pandas&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Numpy-0077B5?style=for-the-badge&logo=Numpy&logoColor=white"/><img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=Pandas&logoColor=61DAFB"/>  <img src="https://img.shields.io/badge/Scikit-learn-0077B5?style=for-the-badge&logo=Scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=Keras&logoColor=white"/><img src="https://img.shields.io/badge/Seaborn-0077B5?style=for-the-badge&logo=Seaborn&logoColor=61DAFB"/><img src="https://img.shields.io/badge/Regex-20232A?style=for-the-badge&logo=Regex&logoColor=white"/><img src="https://img.shields.io/badge/Tensorflow-0769AD?style=for-the-badge&logo=Tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/Opencv-20232A?style=for-the-badge&logo=Opencv&logoColor=white"/>
