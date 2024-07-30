@@ -121,8 +121,8 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 | Beauty-Classification  | Cnn  | [view](https://github.com/Tanwar-12/Beauty-Classification) | `Image Classification` `Python`|
 | QR Code & Bar Code Detect | Opencv | [view](https://github.com/Tanwar-12/Detecting-the-QR-Code-Bar-Code-Using-Opencv) | `Opencv` `Python`|
 
-## 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔:
- <div align="center">
+
+##  𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanwar-12&theme=gruvbox" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanwar-12&theme=gruvbox"  />
@@ -131,14 +131,16 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanwar-12&theme=gruvbox" />
 </div>
 
-## 🏆𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔:
+## 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬:
 ![](https://github-profile-trophy.vercel.app/?username=Tanwar-12&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-## ✍️ 𝑹𝒂𝒏𝒅𝒐𝒎 𝑫𝒆𝒗 𝑸𝒖𝒐𝒕𝒆:
+
+## ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-## 🔝 𝑻𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆𝒅 𝑹𝒆𝒑𝒐:
+## 🔝 𝐓𝐨𝐩 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐑𝐞𝐩𝐨:
 ![](https://github-contributor-stats.vercel.app/api?username=Tanwar-12&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
 
 ---
 
