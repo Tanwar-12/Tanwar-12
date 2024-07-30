@@ -123,6 +123,7 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 
 ## 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔:
  <div align="center">
+<div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanwar-12&theme=gruvbox" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanwar-12&theme=gruvbox"  />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanwar-12&theme=gruvbox"  />
