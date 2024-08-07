@@ -52,11 +52,11 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 <br>
 <hr>
 
-## 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡:
+## 📊 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwar-12&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 
-## 𝑺𝒌𝒊𝒍𝒍𝒔:
+## 👩‍💻 𝑺𝒌𝒊𝒍𝒍𝒔:
 | 𝙲𝚊𝚝𝚎𝚐𝚘𝚛𝚢       | 𝚂𝚔𝚒𝚕𝚕𝚜        |
 |-----------------|---------------|
 | 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬| <img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=Pandas&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Numpy-0077B5?style=for-the-badge&logo=Numpy&logoColor=white"/><img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=Pandas&logoColor=61DAFB"/>  <img src="https://img.shields.io/badge/Scikit-learn-0077B5?style=for-the-badge&logo=Scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=Keras&logoColor=white"/><img src="https://img.shields.io/badge/Seaborn-0077B5?style=for-the-badge&logo=Seaborn&logoColor=61DAFB"/><img src="https://img.shields.io/badge/Regex-20232A?style=for-the-badge&logo=Regex&logoColor=white"/><img src="https://img.shields.io/badge/Tensorflow-0769AD?style=for-the-badge&logo=Tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/Opencv-20232A?style=for-the-badge&logo=Opencv&logoColor=white"/>
@@ -74,9 +74,8 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+## <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="25" />𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔  
 
-
-## 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔:
 | 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 |  |𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 | 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐬  |
 |:---------|:----------:|:----------:|:-------------------|
 | Face Mask Detection | Deep Learning | [view](https://github.com/Tanwar-12/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`|
@@ -122,7 +121,7 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 | QR Code & Bar Code Detect | Opencv | [view](https://github.com/Tanwar-12/Detecting-the-QR-Code-Bar-Code-Using-Opencv) | `Opencv` `Python`|
 
 
-##  𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
+## 📈 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanwar-12&theme=gruvbox" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanwar-12&theme=gruvbox"  />
