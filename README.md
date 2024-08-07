@@ -27,12 +27,7 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 
 ❓ *Ask me about Data Science (AI/ML)*.
 
-✍️ *In my free time, I pursue Website Designing  and Blog Writing as hobbies/side hustles.*
-
-✉️ *You can shoot me an email at techtanwar03@gmail.com! I'll try to respond as soon as I can.*
-
-
-📫 *Reach Out:* [My Portfolio ](https://tanwar-12.github.io/Sakshitanwarportfolio.github.io/)
+✍️ *In my free time, I pursue Website Designing.*
 
 
 ⚡ *Fun fact: Debuggers by Day, Problems Solver by Night.* 🙂
