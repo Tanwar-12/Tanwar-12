@@ -14,7 +14,7 @@
 
          
 
-## 🙋🏻𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
+## 🙋🏻 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞:
 
 
 *I'm a data scientist with a strong foundation in Computer Science Engineering. I hold a Bachelor's degree in Computer Science Engineering (B.Tech CSE) and have also completed a 6-month course in data science &  web designing.*
@@ -34,7 +34,7 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 ⚡ *Fun fact: Debuggers by Day, Problems Solver by Night.* 🙂
 
 
-##  <img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲!
+##  <img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞!
 
 [![pub package](https://img.shields.io/badge/LinkedIn-013243?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%F0%9D%9A%82%F0%9D%9A%8A%F0%9D%9A%94%F0%9D%9A%9C%F0%9D%9A%91%F0%9D%9A%92-%F0%9D%9A%83%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%A0%F0%9D%9A%8A%F0%9D%9A%9B-69a241250/) [![Gmail](https://img.shields.io/badge/Gmail-C4C1B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techtanwar03@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-013243?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tsakshi)
  [![Hackerrank](https://img.shields.io/badge/hackerrank-C4C1B4?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dashboard)[![Leetcode](https://img.shields.io/badge/Leetcode-013243?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/STanwar16/) [![Codechef](https://img.shields.io/badge/Codechef-C4C1B4?style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/techtanwar03) 
@@ -45,14 +45,9 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-<br>
-<hr>
-
-## 📊 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗚𝗿𝗮𝗽𝗵:
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwar-12&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 
-## 👩‍💻 𝗦𝗸𝗶𝗹𝗹𝘀:
+## 👩‍💻 𝐒𝐤𝐢𝐥𝐥𝐬:
 
  #### 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬  
  <img src="https://img.shields.io/badge/Python-013243?style=for-the-badge&logo=Python&logoColor=white"/>   <img src="https://img.shields.io/badge/C-C4C1B4?style=for-the-badge&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C%2B%2B-013243?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  <img src="https://img.shields.io/badge/R-C4C1B4?style=for-the-badge&logo=R&logoColor=white"/>   
@@ -91,11 +86,13 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 <img src="https://img.shields.io/badge/Codecademy-013243?style=for-the-badge&logo=codecademy&logoColor=white" /> <img src="https://img.shields.io/badge/Geeksforgeeks-C4C1B4?style=for-the-badge&logo=Geeksforgeeks&logoColor=white" /> <img src="https://img.shields.io/badge/coding%20ninjas-013243?style=for-the-badge&logo=codingninjas&logoColor=white?"/><img src="https://img.shields.io/badge/Coursera-C4C1B4?style=for-the-badge&logo=Coursera&logoColor=white"/><img src="https://img.shields.io/badge/Datacamp-013243?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/><img src="https://img.shields.io/badge/Khan%20Academy-C4C1B4?style=for-the-badge&logo=Khan%20Academy&logoColor=white"/><img src="https://img.shields.io/badge/Udemy-013243?style=for-the-badge&logo=Udemy&logoColor=white"/><img src="https://img.shields.io/badge/Udacity-C4C1B4?style=for-the-badge&logo=udacity&logoColor=#5FCFEE"/>
   
 
+## 📊 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwar-12&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-## <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="25" />𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 
+## <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="25" />𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬: 
 
 | 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 |  |𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 | 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐬  |
 |:---------|:----------:|:----------:|:-------------------|
@@ -142,7 +139,7 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 | QR Code & Bar Code Detect | Opencv | [view](https://github.com/Tanwar-12/Detecting-the-QR-Code-Bar-Code-Using-Opencv) | `Opencv` `Python`|
 
 
-## 📈 𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
+## 📈  𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanwar-12&theme=gruvbox" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanwar-12&theme=gruvbox"  />
@@ -150,15 +147,14 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanwar-12&theme=gruvbox"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanwar-12&theme=gruvbox" />
 </div>
-
-## 🏆 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀:
+ 
+ ## 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬:
 ![](https://github-profile-trophy.vercel.app/?username=Tanwar-12&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-
-## ✍️ 𝗥𝗮𝗻𝗱𝗼𝗺 𝗗𝗲𝘃 𝗤𝘂𝗼𝘁𝗲:
+ ## ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-## 🔝 𝗧𝗼𝗽 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 𝗥𝗲𝗽𝗼:
+## 🔝 𝐓𝐨𝐩 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐑𝐞𝐩𝐨:
 ![](https://github-contributor-stats.vercel.app/api?username=Tanwar-12&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 
