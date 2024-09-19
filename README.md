@@ -47,41 +47,43 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 
 ## 👩‍💻 𝐒𝐤𝐢𝐥𝐥𝐬:
 
- #### 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬  
+## 👩‍💻 𝐒𝐤𝐢𝐥𝐥𝐬:
+
+ #### Programming Languages 
  <img src="https://img.shields.io/badge/Python-E4EA8C?style=for-the-badge&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-3F6C45?style=for-the-badge&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C%2B%2B-E4EA8C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  <img src="https://img.shields.io/badge/R-3F6C45?style=for-the-badge&logo=R&logoColor=white"/>   
 
-#### 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬  
+#### Databases 
 <img src="https://img.shields.io/badge/MySQL-E4EA8C?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-3F6C45?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-E4EA8C?style=for-the-badge&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-3F6C45?style=for-the-badge&logo=MongoDB&logoColor=white"/> 
 
-#### 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬
+#### Libraries & Frameworks
 <img src="https://img.shields.io/badge/Pandas-E4EA8C?style=for-the-badge&logo=Pandas&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Numpy-3F6C45?style=for-the-badge&logo=Numpy&logoColor=white"/><img src="https://img.shields.io/badge/Matplotlib-E4EA8C?style=for-the-badge&logo=Pandas&logoColor=61DAFB"/>  <img src="https://img.shields.io/badge/Scikitlearn-3F6C45?style=for-the-badge&logo=Scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-E4EA8C?style=for-the-badge&logo=Keras&logoColor=white"/><img src="https://img.shields.io/badge/Seaborn-3F6C45?style=for-the-badge&logo=Seaborn&logoColor=61DAFB"/><img src="https://img.shields.io/badge/Regex-E4EA8C?style=for-the-badge&logo=Regex&logoColor=white"/><img src="https://img.shields.io/badge/Tensorflow-3F6C45?style=for-the-badge&logo=Tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/Opencv-E4EA8C?style=for-the-badge&logo=Opencv&logoColor=white"/><img src="https://img.shields.io/badge/Pyspark-3F6C45?style=for-the-badge&logo=Pyspark&logoColor=white"/> <img src="https://img.shields.io/badge/Requests-E4EA8C?style=for-the-badge&logo=Requests&logoColor=white"/><img src="https://img.shields.io/badge/BS4-3F6C45?style=for-the-badge&logo=BS4k&logoColor=white"/> <img src="https://img.shields.io/badge/Pymongo-E4EA8C?style=for-the-badge&logo=Pymongo&logoColor=white"/><img src="https://img.shields.io/badge/Psycopg2-3F6C45?style=for-the-badge&logo=Psycopg2&logoColor=white"/>
 
-#### 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 & 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 
+#### Data Analysis & Visulaisation 
  <img src="https://img.shields.io/badge/Statistics-E4EA8C?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Data Wranling-3F6C45?style=for-the-badge&logo=Data Wranling&logoColor=white" /> <img src="https://img.shields.io/badge/EDA-E4EA8C?style=for-the-badge&logo=Colab&logoColor=white" />  <img src="https://img.shields.io/badge/Tableau-3F6C45?style=for-the-badge&logo=Tableau&logoColor=white" /> 
 
-#### 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠  𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 
+#### Machine Learning Algorithms
  <img src="https://img.shields.io/badge/Supervised Learning-E4EA8C?style=for-the-badge&logo=Supervised Learning&logoColor=white" /><img src="https://img.shields.io/badge/Unsupervised Learning-3F6C45?style=for-the-badge&logo=Unsupervised Learning&logoColor=white" /><img src="https://img.shields.io/badge/Reinforcement Learning-E4EA8C?style=for-the-badge&logo=Reinforcement Learning&logoColor=white" />
 
- #### 𝐒𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐞𝐝  𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠   
+ #### Supervised Algorithms  
  <img src="https://img.shields.io/badge/Linear Regression-3F6C45?style=for-the-badge&logo=Linear Regression&logoColor=white" /><img src="https://img.shields.io/badge/Logistic Regression-E4EA8C?style=for-the-badge&logo=Logistic Regression&logoColor=white" /><img src="https://img.shields.io/badge/KNN-3F6C45?style=for-the-badge&logo=KNN&logoColor=white" /><img src="https://img.shields.io/badge/SVM-E4EA8C?style=for-the-badge&logo=SVM&logoColor=white" /><img src="https://img.shields.io/badge/Decision Tree-3F6C45?style=for-the-badge&logo=Decision Tree&logoColor=white" /><img src="https://img.shields.io/badge/Random Forest-E4EA8C?style=for-the-badge&logo=Random Forest&logoColor=white" /><img src="https://img.shields.io/badge/XGBoost-3F6C45?style=for-the-badge&logo=Decision Tree&logoColor=white" /><img src="https://img.shields.io/badge/Gradient Boosting-E4EA8C?style=for-the-badge&logo=Gradient Boosting t&logoColor=white" /><img src="https://img.shields.io/badge/Bagging-3F6C45?style=for-the-badge&logo=Bagging&logoColor=white" /><img src="https://img.shields.io/badge/ Time series forecasting-E4EA8C?style=for-the-badge&logo= Time series forecasting&logoColor=white" />
 
-#### 𝐔𝐧𝐒𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐞𝐝 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠   
+#### UnSupervised Algorithms 
  <img src="https://img.shields.io/badge/KMeans-3F6C45?style=for-the-badge&logo= k-Means&logoColor=white" /><img src="https://img.shields.io/badge/PCA-E4EA8C?style=for-the-badge&logo=PCA&logoColor=white" />
 
-#### 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 
- <img src="https://img.shields.io/badge/Deep learning-3F6C45?style=for-the-badge&logo=Deep learning%20illustrator&logoColor=white"/>   <img src="https://img.shields.io/badge/Transfer Learning-E4EA8C?style=for-the-badge&logo=Transfer Learning%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Object Detection-3F6C45?style=for-the-badge&logo=Object Detection%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-E4EA8C?style=for-the-badge&logo=NLP&logoColor=white"/> <img src="https://img.shields.io/badge/LLM-3F6C45?style=for-the-badge&logo=LLM%20illustrator&logoColor=white"/><img src="https://img.shields.io/badge/Gen AI-E4EA8C?style=for-the-badge&logo=Gen AI%20XD&logoColor=#FF61F6"/>  
-
-#### 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬
+#### Aritificial Intelligence
+ <img src="https://img.shields.io/badge/Deep learning-3F6C45?style=for-the-badge&logo=Deep learning%20illustrator&logoColor=white"/>   <img src="https://img.shields.io/badge/Transfer Learning-E4EA8C?style=for-the-badge&logo=Transfer Learning%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Object Detection-3F6C45?style=for-the-badge&logo=Object Detection%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-E4EA8C?style=for-the-badge&logo=NLP&logoColor=white"/> 
+#### Development Tools
  <a href="https://github.com/Tanwar-12"><img src="https://img.shields.io/badge/GitHub-3F6C45?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E4EA8C?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Notepad++-3F6C45?style=for-the-badge&logo=Notepad++&logoColor=DAF7A6"/> </a> <img src="https://img.shields.io/badge/SUBLIME TEXT-E4EA8C?style=for-the-badge&logo=sublimetext&logoColor=white"/><img src="https://img.shields.io/badge/VSCode-3F6C45?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter Notebook-E4EA8C?style=for-the-badge&logo=Jupyter Notebook&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-3F6C45?style=for-the-badge&logo=Colab&logoColor=white" />  <img src="https://img.shields.io/badge/Google_chrome-E4EA8C?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/Pycharm-3F6C45?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />  <img src="https://img.shields.io/badge/Replit-E4EA8C?style=for-the-badge&logo=Replit&logoColor=white" /> 
 
-#### 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐯𝐞 𝐂𝐨𝐝𝐢𝐧𝐠 
+#### Competitive Coding
 <img src="https://img.shields.io/badge/kaggle-3F6C45?style=for-the-badge&logo=kaggle&logoColor=white"/></a> <a href="https://www.hackerrank.com/dashboard"><img src="https://img.shields.io/badge/-Hackerrank-E4EA8C?style=for-the-badge&logo=Hackerrank&logoColor=black"/><a href="https://auth.geeksforgeeks.org/user/tanwarsakshi"><img src="https://img.shields.io/badge/GeeksforGeeks-3F6C45?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>  
 
- #### 𝐇𝐨𝐬𝐭𝐢𝐧𝐠  
+ #### Hosting 
  <img src="https://img.shields.io/badge/Flask-E4EA8C?style=for-the-badge&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-3F6C45?style=for-the-badge&logo=heroku&logoColor=white"/> 
 
-#### 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+#### Learning
 <img src="https://img.shields.io/badge/Codecademy-E4EA8C?style=for-the-badge&logo=codecademy&logoColor=white" /> <img src="https://img.shields.io/badge/Geeksforgeeks-3F6C45?style=for-the-badge&logo=Geeksforgeeks&logoColor=white" /> <img src="https://img.shields.io/badge/coding%20ninjas-E4EA8C?style=for-the-badge&logo=codingninjas&logoColor=white?"/><img src="https://img.shields.io/badge/Coursera-3F6C45?style=for-the-badge&logo=Coursera&logoColor=white"/><img src="https://img.shields.io/badge/Datacamp-E4EA8C?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/><img src="https://img.shields.io/badge/Khan%20Academy-3F6C45?style=for-the-badge&logo=Khan%20Academy&logoColor=white"/><img src="https://img.shields.io/badge/Udemy-E4EA8C?style=for-the-badge&logo=Udemy&logoColor=white"/><img src="https://img.shields.io/badge/Udacity-3F6C45?style=for-the-badge&logo=udacity&logoColor=#5FCFEE"/>
+  
   
 
 ## 📊 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡:
