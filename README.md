@@ -44,9 +44,6 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 
 
 
-
-## 👩‍💻 𝐒𝐤𝐢𝐥𝐥𝐬:
-
 ## 👩‍💻 𝐒𝐤𝐢𝐥𝐥𝐬:
 
  #### Programming Languages 
