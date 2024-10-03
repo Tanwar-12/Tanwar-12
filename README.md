@@ -5,6 +5,8 @@
 
 
 
+<img src="https://github.com/Tanwar-12/Tanwar-12/blob/main/Github%20%20Banner.png" alt="logo" width="800" height="auto">
+
   
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
@@ -12,7 +14,6 @@
          width="45"/>𝐈'𝐦 𝐒𝐚𝐤𝐬𝐡𝐢 𝐓𝐚𝐧𝐰𝐚𝐫
 
 
-         
 
 ## 🙋🏻 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞:
 
