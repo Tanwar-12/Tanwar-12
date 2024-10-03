@@ -3,11 +3,6 @@
 ![Followers](https://img.shields.io/github/followers/Tanwar-12?style=for-the-badge&color=ff8210)
 
 
-
-
-<img src="https://github.com/Tanwar-12/Tanwar-12/blob/main/Github%20%20Banner.png" alt="logo" width="800" height="auto">
-
-  
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
