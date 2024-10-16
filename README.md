@@ -72,7 +72,7 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
   
 
 ## 📊 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡:
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwar-12&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwar-12&bg_color=ffffff&color=000000&line=3d9bf1&point=87cefa&area=true&hide_border=true&hide_title=true" />
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
@@ -126,21 +126,21 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 
 ## 📈  𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
 <div align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanwar-12&theme=gruvbox" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanwar-12&theme=gruvbox"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanwar-12&theme=gruvbox"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanwar-12&theme=gruvbox"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanwar-12&theme=gruvbox" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanwar-12&theme=default" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanwar-12&theme=default"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanwar-12&theme=default"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanwar-12&theme=default"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanwar-12&theme=default" />
 </div>
  
  ## 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬:
-![](https://github-profile-trophy.vercel.app/?username=Tanwar-12&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Tanwar-12&theme=default&no-frame=true&no-bg=false&margin-w=4)
 
  ## ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 ## 🔝 𝐓𝐨𝐩 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐑𝐞𝐩𝐨:
-![](https://github-contributor-stats.vercel.app/api?username=Tanwar-12&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Tanwar-12&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 
 ---
