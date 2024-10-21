@@ -147,6 +147,6 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 ![](https://github-contributor-stats.vercel.app/api?username=Tanwar-12&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ## 𝐋𝐞𝐞𝐭𝐜𝐨𝐝𝐞 𝐒𝐭𝐚𝐭𝐬:
-![](https://leetcard.jacoblin.cool/tanwarsakshi1717157?theme=forest)
+![](https://leetcard.jacoblin.cool/tanwarsakshi1717157?theme=light)
 ---
 
