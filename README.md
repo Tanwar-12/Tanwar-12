@@ -13,9 +13,7 @@
 ## 🙋🏻 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞:
 
 
-*I'm a data scientist with a strong foundation in Computer Science Engineering. I hold a Bachelor's degree in Computer Science Engineering (B.Tech CSE) and have also completed a 6-month course in data science &  web designing.*
-
-*Now, I’m eager to explore new opportunities where I can bring fresh ideas to the ever-evolving world of data science. I'm ready to transform data into valuable insights, turn challenges into successes, and make every project a standout achievement!*
+*I am a data scientist with a Bachelor's degree in Computer Science Engineering (B.Tech CSE) and a 6-month certification in data science and web design. I am dedicated to leveraging data to drive impactful insights and solve complex challenges, aiming to deliver exceptional results in every project I undertake.*
 
 <img align="right" alt="coding" width="250" 
 src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
