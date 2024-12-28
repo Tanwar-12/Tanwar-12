@@ -20,9 +20,9 @@ src="https://github.com/Tanwar-12/Tanwar-12/blob/main/CIG.gif">
 
 📝*Presently immersed in upskilling myself in the exhilarating world of data science!*.
 
-❓ *Ask me about Data Science (AI/ML)*.
+❓ *Ask me about **Data Science (AI/ML)**.*
 
-✍️ *In my free time, I pursue Website Designing.*
+✍️ *In my free time, I pursue **Website Designing**.*
 
 
 ⚡ *Fun fact: Debuggers by Day, Problems Solver by Night.* 🙂
