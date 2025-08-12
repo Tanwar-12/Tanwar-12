@@ -12,8 +12,6 @@
 
 ## 🙋🏻 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞:
 
-# <img align="right" alt="coding" width="200" src="https://github.com/DataScienceVibes/DataScienceVibes/blob/main/ST1.gif">
-
 
 *I am a **data scientist** with a **Bachelor's degree in Computer Science Engineering (B.Tech CSE)** and a **6-month certification in data science and web design**. I am dedicated to leveraging data to drive impactful insights and solve complex challenges, aiming to deliver exceptional results in every project I undertake.*
 
@@ -157,21 +155,21 @@
 
 ## 📈  𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
 <div align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanwar-12&theme=transparent" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanwar-12&theme=transparent"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanwar-12&theme=transparent"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanwar-12&theme=transparent"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanwar-12&theme=transparent" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanwar-12&theme=solarized_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanwar-12&theme=solarized_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanwar-12&theme=solarized_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanwar-12&theme=solarized_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanwar-12&theme=solarized_dark" />
 </div>
  
  ## 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬:
-![](https://github-profile-trophy.vercel.app/?username=Tanwar-12&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Tanwar-12&theme=solarized_dark&no-frame=true&no-bg=false&margin-w=4)
 
  ## ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=solarized_dark)
 
 ## 🔝 𝐓𝐨𝐩 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐑𝐞𝐩𝐨:
-![](https://github-contributor-stats.vercel.app/api?username=Tanwar-12&limit=5&theme=default&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Tanwar-12&limit=5&transparent_bright&combine_all_yearly_contributions=true&title_color=115588&icon_color=FF6B6B)
 
 
 ---
