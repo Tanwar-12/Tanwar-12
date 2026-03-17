@@ -13,18 +13,15 @@
 ## 🙋🏻 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞:
 
 
-*I am a **data scientist** with a **Bachelor's degree in Computer Science Engineering (B.Tech CSE)** and a **6-month certification in data science and web design**. I am dedicated to leveraging data to drive impactful insights and solve complex challenges, aiming to deliver exceptional results in every project I undertake.*
+ **Data Scientist** with a **B.Tech in CSE** and  certification in Data Science & Web Design. Passionate about turning data into powerful insights and solving complex problems.
 
+📚 *Lifelong learner, passionate about innovation in data science.*
 
-📝*Presently immersed in upskilling myself in the exhilarating world of data science!*.
+❓ *Open to discussions on AI/ML & Data Science.*
 
-❓ *Ask me about **Data Science (AI/ML)**.*
+✍️ *Creative edge: Website Design.*
 
-✍️ *In my free time, I pursue **Website Designing**.*
-
-🔭 *I’m currently working on **Generative AI, NLP, Deep Learning, Machine Learning, Computer Vision, LLM, Data Analytics & Data Science Projects***
-
-⚡ *Fun fact: Debuggers by Day, Problems Solver by Night.* 🙂
+⚡ *Fun fact: Debugger by Day, Problem Solver by Night.*
 
 
 ## <img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100"> 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 !
