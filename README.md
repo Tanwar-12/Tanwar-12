@@ -62,7 +62,7 @@
 <img src="https://img.shields.io/badge/Kaggle-f1c175?style=for-the-badge&logo=Kaggle&logoColor=white"/> <a href="https://www.hackerrank.com/dashboard"> <img src="https://img.shields.io/badge/Hackerrank-00818e?style=for-the-badge&logo=Hackerrank&logoColor=white"/></a> <a href="https://auth.geeksforgeeks.org/user/tanwarsakshi"> <img src="https://img.shields.io/badge/GeeksforGeeks-f1c175?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/></a>  
 
 #### Hosting 
-<img src="https://img.shields.io/badge/Flask-00818e?style=for-the-badge&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-f1c175?style=for-the-badge&logo=Heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-00818e?style=for-the-badge&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-f1c175?style=for-the-badge&logo=Heroku&logoColor=white"/><img src="https://img.shields.io/badge/Django-00818e?style=for-the-badge&logo=Django&logoColor=white"/> 
 
 #### Cloud & NLP Technologies
 <img src="https://img.shields.io/badge/AWS-f1c175?style=for-the-badge&logo=AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-00818e?style=for-the-badge&logo=Azure&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud-f1c175?style=for-the-badge&logo=Google%20Cloud&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-00818e?style=for-the-badge&logo=NLP&logoColor=white"/>
