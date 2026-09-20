@@ -13,13 +13,15 @@
 ## 🙋🏻 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞:
 
 
- **Data Scientist** with a **B.Tech in CSE** and  certification in Data Science & Web Design. Passionate about turning data into powerful insights and solving complex problems.
+ **Python Full-Stack Developer | B.Tech in CSE | Data Science & AI Enthusiast**
 
-📚 *Lifelong learner, passionate about innovation in data science.*
+💻 *Passionate about building scalable, user-friendly web applications and turning ideas into real-world digital solutions using Python and modern web technologies.*
 
-❓ *Open to discussions on AI/ML & Data Science.*
+🚀 *Developer Mindset: Enjoy building, debugging, optimizing, and continuously improving applications.*
 
-✍️ *Creative edge: Website Design.*
+📚 *Lifelong Learner: Exploring Full-Stack Development, AI/ML, Data Science, and emerging technologies.*
+
+🤖 *Tech Interests: Python, Web Development, AI/ML, Data Science, APIs, and Backend Development.*
 
 ⚡ *Fun fact: Debugger by Day, Problem Solver by Night.*
 
